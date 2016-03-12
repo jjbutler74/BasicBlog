@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<xs:schema id="BLOGENTRIES" targetNamespace="http://tempuri.org/Blog.xsd" xmlns:mstns="http://tempuri.org/Blog.xsd"
+	xmlns="http://tempuri.org/Blog.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
+	attributeFormDefault="qualified" elementFormDefault="qualified">
+	<xs:element name="BLOGENTRIES" msdata:IsDataSet="true" msdata:EnforceConstraints="False">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="BLOGENTRY">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NUMBER" type="xs:string" minOccurs="0" />
+							<xs:element name="TITLE" type="xs:string" minOccurs="0" />
+							<xs:element name="MESSAGE" type="xs:string" minOccurs="0" />
+							<xs:element name="DATE" type="xs:string" minOccurs="0" />
+							<xs:element name="DISPLAYFLAG" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:key name="BLOGENTRIESKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:BLOGENTRY" />
+			<xs:field xpath="mstns:NUMBER" />
+		</xs:key>
+	</xs:element>
+</xs:schema>

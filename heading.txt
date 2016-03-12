@@ -1,0 +1,112 @@
+<!-- Heading -->
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="4" ALIGN="CENTER" WIDTH="760">
+  <TR>    
+    <TD COLSPAN="2" ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="100%">
+      <BR>
+    </TD>
+  </TR>
+  <TR>    
+    <TD ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="30%">
+      <IMG SRC="jason.jpg" ALT="JasonButler.com" BORDER="0" WIDTH="118" HEIGHT="159">
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="MIDDLE" WIDTH="70%">
+        <FONT CLASS=title>Jason Butler’s G2C Creation Blog!</FONT>
+    </TD>
+  </TR> 
+  <TR>    
+    <TD COLSPAN="2" ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="100%">
+        <BR>
+    </TD>
+  </TR> 
+  <TR BGCOLOR="#000080">    
+    <TD ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="30%">
+    </TD>
+    <!-- Date -->
+    <TD ALIGN="RIGHT" VALIGN="MIDDLE" WIDTH="70%">
+        <FONT CLASS=date>
+        <SCRIPT LANGUAGE="JavaScript">
+            DaysofWeek = new Array()
+            DaysofWeek[0]="Sunday"
+            DaysofWeek[1]="Monday"
+            DaysofWeek[2]="Tuesday"
+            DaysofWeek[3]="Wednesday"
+            DaysofWeek[4]="Thursday"
+            DaysofWeek[5]="Friday"
+            DaysofWeek[6]="Saturday"
+            Months = new Array()
+            Months[0]="January"
+            Months[1]="February"
+            Months[2]="March"
+            Months[3]="April"
+            Months[4]="May"
+            Months[5]="June"
+            Months[6]="July"
+            Months[7]="August"
+            Months[8]="September"
+            Months[9]="October"
+            Months[10]="November"
+            Months[11]="December"
+
+            RightNow = new Date()
+
+            var day = DaysofWeek[RightNow.getDay()]
+            var date = RightNow.getDate()
+            var Month = Months[RightNow.getMonth()]
+            var Year = RightNow.getFullYear()
+
+            if (date == 1 || date == 21 || date == 31)
+            {ender = "<SUP>st</SUP>"}
+
+            else
+            if (date == 2 || date == 22)
+            {ender = "<SUP>nd</SUP>"}
+
+            else
+            if (date == 3 || date == 23)
+            {ender = "<SUP>rd</SUP>"}
+
+            else
+            {ender = "<SUP>th</SUP>"}
+
+            document.write(day+ " " +Month+ " " +date+ ender+ ", " +Year)
+        </SCRIPT> 
+        </FONT>
+    </TD>
+  </TR> 
+</TABLE>
+
+<!-- Main -->
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="4" ALIGN="CENTER" WIDTH="760" BGCOLOR="#FFFFFF">
+  <TR>    
+    <TD ALIGN="LEFT" VALIGN="TOP" BGCOLOR="#FFFFFF" HEIGHT="3" COLSPAN="2">
+    </TD>
+  </TR>
+  <!-- Light Blue Line -->
+  <TR>    
+    <TD ALIGN="LEFT" VALIGN="TOP" BGCOLOR="#D8E4F1" HEIGHT="3" COLSPAN="2">
+    </TD>
+  </TR>
+
+  <TR>    
+    <!-- About -->
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="200" BGCOLOR="#D8E4F1">
+      <TABLE BORDER="2" CELLSPACING="4" CELLPADDING="6" ALIGN="CENTER">
+        <TR>    
+          <TD>
+            <FONT CLASS=menu>
+              This Blog is a VERY detailed (to the point of being tedious), step-by-step process of creating a useful web application. This is not a smooth and calculated course; this is a real world trial and error – learning as we go type of creation. While I expect the final out come to be a very user friendly, professional-grade product – the route to getting there will be anything but.
+              <BR><BR>
+              The application I am in the process of creating is Glad2Cook.com. Combining my love of computers and food (go with what you know). While I hope the site will ultimately be a cornucopia of useful web application and tools – for now I am just starting with a smart grocery list creator. 
+              <BR><BR>
+              Sounds simple (boring) enough? Well see. Come along for the ride and find out…
+            </FONT>
+          </TD>
+        </TR>
+      </TABLE>
+    </TD>
+
+    <!-- Body -->
+    <TD ALIGN="LEFT" VALIGN="TOP">
+      <TABLE BORDER="0" CELLSPACING="8" WIDTH="100%">
+        <TR>    
+          <TD ALIGN="LEFT" VALIGN="TOP">

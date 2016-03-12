@@ -1,0 +1,34 @@
+<!-- Footer -->
+          </TD>
+        </TR>
+      </TABLE>
+    </TD>
+  </TR>   
+  <TR>    
+    <TD ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="200" BGCOLOR="#D8E4F1" ROWSPAN="4" NOWRAP>
+      <TABLE BORDER="0" CELLSPACING="2" WIDTH="100%">
+        <TR>    
+          <TD ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="100%" NOWRAP>
+            <FONT CLASS=menu>
+              <A HREF="mailto:jason.butler@mindspring.com">jason.butler@mindspring.com</A>
+            </FONT>
+          </TD>
+        </TR> 
+      </TABLE>
+    </TD>
+  </TR>
+    <TD ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="100%" BGCOLOR="#FFFFFF">
+        <BR>
+    </TD>
+  <TR> 
+    <TD ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="100%" BGCOLOR="#C00000" HEIGHT="3">
+    </TD>
+  </TR> 
+  <TR>
+    <TD ALIGN="CENTER" VALIGN="MIDDLE" WIDTH="100%" BGCOLOR="#FFFFFF">
+      <FONT CLASS=footer>
+        Copyright 200... we don’t need no stinking copyright!
+      </FONT>
+    </TD>
+  </TR> 
+</TABLE>

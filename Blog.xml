@@ -1,0 +1,685 @@
+<?xml version="1.0" standalone="yes"?>
+<BLOGENTRIES xmlns="http://tempuri.org/Blog.xsd">
+  <BLOGENTRY>
+    <NUMBER>1</NUMBER>
+    <TITLE>Time to get started!</TITLE>
+    <MESSAGE>Decided I need to get serious about creating a real web application from scratch using current technologies and methods. I have been leaning towards doing a food based web site for awhile. I’m pretty good at classic ASP and I know my way around databases and HTML, but I need to move in to the .NET world a bit more and I think now’s the time to start using real development tools (I have created entire web sites in notepad!).</MESSAGE>
+    <DATE>2006-03-27T12:24:51-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>2</NUMBER>
+    <TITLE>1st Version of Specs</TITLE>
+    <MESSAGE>Created 1st draft of specs and timeline for recipe based web app. (These are just working copies for my purposes, not the type of thing I would show to a client/investor).
+{BR}{BR}
+{a href="http://jasonbutler.com/G2CBlog/Old/Food Spec - Old.doc"}Food Spec{/a} (Word)
+{BR}{BR}
+{a href="http://jasonbutler.com/G2CBlog/Old/Food Timeline - Old.xls"}Food Timeline{/a} (Excel)
+</MESSAGE>
+    <DATE>2006-03-28T12:44:27-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>3</NUMBER>
+    <TITLE>Looking for a Web Address</TITLE>
+    <MESSAGE>Researched available web site names, and created a spreadsheet (man, the good stuff is taken): 
+{BR}{BR}
+{a href="http://jasonbutler.com/G2CBlog/Research/WebNames.xls"}Web Names{/a} (Excel)
+</MESSAGE>
+    <DATE>2006-03-30T09:38:11-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>4</NUMBER>
+    <TITLE>Decide on web addresses</TITLE>
+    <MESSAGE>Glad2Cook.com and GladToCook.com - I think they are obviously the best of what is available.</MESSAGE>
+    <DATE>2006-04-05T11:23:04-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>5</NUMBER>
+    <TITLE>Changing Course Already</TITLE>
+    <MESSAGE>Decided recipe based software would be way too involved to start with, so I am switching focus to a Grocery List creating application, with a new working spec (again this is just a WORKING document, not a finished one).
+{BR}{BR}
+{a href="http://jasonbutler.com/G2CBlog/Docs/Glad2Cook Spec.doc"}Glad2Cook Spec{/a}
+</MESSAGE>
+    <DATE>2006-04-06T12:25:16-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>6</NUMBER>
+    <TITLE>I finally have a home</TITLE>
+    <MESSAGE>I setup jasonbutler.com (which I’ve had parked for years) to use as a development website – and to run this blog. I went with DiscountASP.net for my hosting company. They seem to be the best ASP.NET site for the money ($60 for a year with coupon). Changing DNS settings at NetworkSoultions.com to point to the new host worked fine.</MESSAGE>
+    <DATE>2006-04-11T15:56:14-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>7</NUMBER>
+    <TITLE>Too late cyber-squatters!</TITLE>
+    <MESSAGE>Purchased domains gald2cook.com and gladtocook.com from Yahoo! ($9.95 each). Process went well and Yahoo’s services seem good for the price (Network Solutions is $35! and I’ve heard GoDaddy.com is not so great on customer support).</MESSAGE>
+    <DATE>2006-04-13T16:04:56-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>8</NUMBER>
+    <TITLE>D'oh!</TITLE>
+    <MESSAGE>OK, so I’m and idiot. I went ahead and purchased glad2cook.com via Yahoo.</MESSAGE>
+    <DATE>2006-04-17T14:17:37-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>9</NUMBER>
+    <TITLE>Logo brainstorming</TITLE>
+    <MESSAGE>Trying out some ideas for logos and type faces (I know it's just Word clipart).
+{BR}{BR}
+{a href="http://jasonbutler.com/G2CBlog/Docs/Glad2Cook Logos.doc"}Glad2Cook Logos{/a} (Word)
+</MESSAGE>
+    <DATE>2006-04-20T13:02:07-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>10</NUMBER>
+    <TITLE>Trying to setup a development environment</TITLE>
+    <MESSAGE>Tried to setup Visual Studio 2003 on my laptop to develop directly on jasonbutler.com. It actually worked, if I added a control on my laptop and click build - the control would appear on the live website. However, I could not run any of the web pages locally on my laptop (not sure why). And after thinking about it, this is not the best way to develop an app - for obvious reasons.
+{BR}{BR}
+{a href="http://kb.discountasp.net/article.aspx?id=10000"}DiscountASP.NET’s Instructions{/a}
+
+
+</MESSAGE>
+    <DATE>2006-04-21T11:08:42-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>11</NUMBER>
+    <TITLE>Bookmarks of ASP.NET and related topics</TITLE>
+    <MESSAGE>{a href="http://www.4guysfromrolla.com/ASPScripts/PrintPage.asp?REF=%2Fwebtech%2F063099%2D1%2Eshtml"}4GuysFromRolla.com - OLEDB For Me!{/a}
+{BR}{a href="http://www.discountasp.net/6mospecial2005.aspx"}6 Months FREE Hosting at DiscountASP.NET - ASP.NET Hosting{/a}
+{BR}{a href="http://www.asp101.com/"}ASP 101 - Active Server Pages 101{/a}
+{BR}{a href="http://msdn.microsoft.com/asp.net/learning/learn/newtodevelopment/default.aspx"}ASP.NET Developer Center- New to Development{/a}
+{BR}{a href="http://www.w3schools.com/aspnet/default.asp"}ASP.NET Tutorial{/a}
+{BR}{a href="http://www.asp.net/Default.aspx?tabindex=0&amp;tabid=1"}ASP.NET Web- The Official Microsoft ASP.NET 2.0 Site - Home Page{/a}
+{BR}{a href="http://aspnet.4guysfromrolla.com/"}ASP.NET.4GuysFromRolla.com{/a}
+{BR}{a href="http://www.componentart.com/home.aspx"}ComponentArt Home{/a}
+{BR}{a href="http://community.discountasp.net/"}DiscountASP.NET Community Forum{/a}
+{BR}{a href="http://kb.discountasp.net/article.aspx?id=10002"}DiscountASP.NET - How do I deploy a VS.NET to your server?{/a}
+{BR}{a href="http://kb.discountasp.net/article.aspx?id=10000"}DiscountASP.NET - How do I create a new web project with VS.NET?{/a}
+{BR}{a href="http://kb.discountasp.net/article.aspx?id=10191"}DiscountASP.NET - Query an Access db using a DSN-less connection.{/a}
+{BR}{a href="http://www.gotdotnet.com/default.aspx"}GotDotNet- The Microsoft .NET Framework Community{/a}
+{BR}{a href="http://samples.gotdotnet.com/quickstart/aspplus/"}Microsoft QuickStart Tutorials{/a}
+{BR}{a href="http://www.codeproject.com/aspnet/"}The Code Project - Free Source Code and Tutorials{/a}
+{BR}{a href="http://www.thedifferenceisobviousvb05.com/Webcasts/Campaign.aspx"}Visual Studio 2005 The Difference is Obvious{/a}
+{BR}{a href="http://www.startvbdotnet.com/aspsite/asp/"}What is ASP.NET{/a}
+</MESSAGE>
+    <DATE>2006-04-24T16:54:39-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>12</NUMBER>
+    <TITLE>ASP.NET books</TITLE>
+    <MESSAGE>Did some research on ASP.NET and related books (these are just my working notes, not complete analysis of each book).
+{BR}{BR}
+{a href="http://jasonbutler.com/G2CBlog/Research/ASP-NET Books.xls"}ASP.NET Books{/a} (Excel)
+</MESSAGE>
+    <DATE>2006-04-25T14:15:39-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>13</NUMBER>
+    <TITLE>ASP.NET 1.1 vs 2.0</TITLE>
+    <MESSAGE>Doing some more research on different technologies and versions - and how they match up. It is basically a toss up between ASP.NET 1.1 and 2.0. And also among Visual Studio 2003, Web Dev 05 and Visual Studio 2005. Not sure yet which I’m going to go with.
+{BR}{BR}
+{U}ASP.NET 1.1{/U} (part of .NET Framework, version 1.1)
+{BR}
+{B}Notepad{/B} (great for classic ASP, simply won’t do for ASP.NET) 
+{BR}
+{B}WebMatrix{/B} (a greatly stripped down version of VS 03)
+{BR}
+{B}VS.NET 2003{/B} (have a copy, but having a hard time getting development environment up to snuff)
+{BR}{BR}
+{U}ASP.NET 2.0{/U} (part of .NET Framework, version 2.0)
+{BR}
+{B}Notepad{/B} (great for classic ASP, simply won’t do for ASP.NET) 
+{BR}
+{B}Visual Web Developer 2005 Express{/B} (a slightly stripped down version of 05, missing Class Designer, Deployment Tools, Source Control, Reporting Tools, etc) 
+{BR}
+{B}VS.NET 2005{/B} (don’t have, cost $$$)
+{BR}{BR}
+{a href="http://www.winsupersite.com/showcase/yukon_visualstudio2005.asp"}A good comparison site for 2005 products{/a} </MESSAGE>
+    <DATE>2006-04-26T13:05:45-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>14</NUMBER>
+    <TITLE>Deleting my test Web Application</TITLE>
+    <MESSAGE>Followed the DiscountASP.NET instructions to delete an app created with VS, but when I got to the SubWeb utility, it did not show an option to delete a sub web, leading me to believe I never actually created one.
+{BR}{BR}
+{a href="http://kb.discountasp.net/article.aspx?id=10200"}DiscountASP.NET’s Instructions{/a}
+{BR}{BR}
+I ended up just FTP to jasonbutler.com, deleting all files and folders, expect for the original ones (I can never tell if I’m making this stuff much harder than it really is).
+
+
+</MESSAGE>
+    <DATE>2006-04-26T16:24:34-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>15</NUMBER>
+    <TITLE>Ordered 6 ASP books from Amazon</TITLE>
+    <MESSAGE>{a href="http://www.amazon.com/gp/product/1890774324/sr=1-6/qid=1145975960/ref=sr_1_6/002-8531209-5628852?%5Fencoding=UTF8&amp;s=books"}Murach's ASP.NET 2.0 Web Programming with VB 2005{/a}
+{br}{a href="http://www.amazon.com/gp/product/0764576100/sr=1-2/qid=1145911996/ref=sr_1_2/104-7386663-6877549?%5Fencoding=UTF8&amp;s=books"}Professional ASP.NET 2.0{/a}
+{br}{a href="http://www.amazon.com/gp/product/0764543865/sr=8-4/qid=1146515998/ref=sr_1_4/002-5772412-7554412?%5Fencoding=UTF8"}ASP.NET Website Programming: Problem - Design - Solution, VB.NET Edition{/a}
+{br}{a href="http://www.amazon.com/gp/product/1590592549/sr=1-94/qid=1145975614/ref=sr_1_94/002-8531209-5628852?%5Fencoding=UTF8&amp;s=books"}Beginning ASP.NET 1.1 E-Commerce: From Novice to Professional{/a}
+{br}{a href="http://www.amazon.com/gp/product/0201760398/sr=8-2/qid=1146515963/ref=pd_bbs_2/002-5772412-7554412?%5Fencoding=UTF8"}Essential ASP.NET with Examples in Visual Basic.NET{/a}
+{br}{a href="http://www.amazon.com/gp/product/0596008473/sr=8-1/qid=1146516084/ref=pd_bbs_1/002-5772412-7554412?%5Fencoding=UTF8"}Visual Studio Hacks: Tips &amp; Tools for Turbocharging the IDE{/a}</MESSAGE>
+    <DATE>2006-05-02T11:17:50-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>16</NUMBER>
+    <TITLE>My Productivity has Doubled</TITLE>
+    <MESSAGE>I hooked up the {a href="http://www.microcenter.com/single_product_results.phtml?product_id=0219493
+"}KVM switch{/a} and the {a href=" http://www.microcenter.com/single_product_results.phtml?product_id=0203017"} PS2 to USB cable{/a} that I bought yesterday to my laptop (where I’m developing G2C) and to my work computer (where I spend 8+ hours a day) with no problems. I highly recommend this setup to anyone who might be in a similar situation ;)   
+</MESSAGE>
+    <DATE>2006-05-04T17:02:25-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>17</NUMBER>
+    <TITLE>Finished cleaning up old test VS project</TITLE>
+    <MESSAGE>Cleaned up old test VS project from the laptop. Had to delete it in 3 places: VS folder under My Docs, interpub folder and IIS (seems like a lot to delete). </MESSAGE>
+    <DATE>2006-05-05T15:25:47-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>18</NUMBER>
+    <TITLE>I can’t believe I’m creating a Blog (yes this one)</TITLE>
+    <MESSAGE>I decide the best way to get my feet wet in some of the newer technologies and re-hone my coding skills would to create a Blog (from scratch) about the Glad2Cook creation process. 
+{BR}{BR}
+Since the purpose of this Blog (odd really… I not even a big fan of Blogs) is to get a little head start in modern development techniques before diving in to G2C, I am going to force myself to use all kinds of fancy stuff: XML, RSS, Validation Controls, DataGrids, DataLists, DataViews, more Visual Studio stuff, more involved CSS, etc, etc). 
+{BR}{BR}
+I have owned {a href="http://jasonbutler.com"}jasonbutler.com{/a} for awhile, and since I have never really used it, what better time to put it to work than now. 
+</MESSAGE>
+    <DATE>2006-05-07T12:38:35-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>19</NUMBER>
+    <TITLE>Fun with XML</TITLE>
+    <MESSAGE>Had several breakthroughs with reading a XML file into my ASP.NET code. Including using a DataList with Paging (not a built in function).</MESSAGE>
+    <DATE>2006-05-08T23:36:27-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>20</NUMBER>
+    <TITLE>RSS &lt;&gt; XML</TITLE>
+    <MESSAGE>I researched the RSS protocol, it is only really for simple syndication (hence the name). I can’t use one RSS compliant XML file for syndication and my actual data repository like I planned to (I didn’t really see anyone on the web trying to do this - it is simply not a good idea). Decide to store data as a user defined XML file and create an on the fly RSS file (via code).</MESSAGE>
+    <DATE>2006-05-09T13:23:41-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>21</NUMBER>
+    <TITLE>Creating a RSS services from ASP.NET code</TITLE>
+    <MESSAGE>I actually got {a href="http://www.webpronews.com/webdevelopment/webapplications/wpn-27-20050720SyndicatingYourWebSitesContentwithRSSandASPNET.html
+"}this C# version{/a} of dynamically creating a RSS services from code to work - I could not get a VB version to work at first.
+{BR}{BR}
+But I eventually did.
+{BR}{BR}
+Turns out I accidentally took out the code for displaying the finished data when I (temporarily) took out the caching code. I also removed the first line of the html code - the line that tells the server that it has a corresponding vb code file.
+</MESSAGE>
+    <DATE>2006-05-09T15:02:07-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>22</NUMBER>
+    <TITLE>Headers and Footers </TITLE>
+    <MESSAGE>I put links to my static html header and footer includes files (named {a href="http://jasonbutler.com/G2CBlog/heading.txt"}heading.txt{/a} and {a href="http://jasonbutler.com/G2CBlog/footer.txt"}footer.txt{/a} - may open as text or as html, depending on your browser) into the html of Blog.aspx. Don’t know if this is the “proper” way to include fancy design stuff around the REAL code, but it works (after making sure your page is set to FlowLayout that is).
+{BR}{BR}
+{IMG SRC="http://jasonbutler.com/G2CBlog/header.jpg" ALT="Headers and Footers" BORDER="0"}</MESSAGE>
+    <DATE>2006-05-10T22:46:21-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>23</NUMBER>
+    <TITLE>Using CSS</TITLE>
+    <MESSAGE>Trying to use CSS with my Blog application. Turns out VS starts each web project with a Style.css file (who knew). You still have to put the line &amp;lt;LINK REL="stylesheet" TYPE="text/css" HREF="styles.css"&amp;gt; right above the &amp;lt;HEAD&amp;gt; line in the html. 
+{BR}{BR}
+I simply pasted my CSS code to the bottom of the Style.css – it looks like .NET use the later code when duplicates are around (i.e. my BODY color is used instead of the default one). Also CSS tags in the design environment works as expected – type in a tag name and that’s what it will use (i.e. for a label I typed in errmsg (a CSS tag I defined), and the text instantly turned red).
+</MESSAGE>
+    <DATE>2006-05-11T16:13:21-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>24</NUMBER>
+    <TITLE>Storing html tags in XML </TITLE>
+    <MESSAGE>Got web address and formatting working in the XML file. Could not find a lot of info on putting greater than and less than symbols “{” and “}” directly into the XML file. Because obviously, the XML file treats those symbols as part of the data tags. However using a simple replace command I switch &amp;#123; &amp;#125; symbols to { } for actual page display. Now I just have to put the reverse replace command into the create Blog entry page (which I need to create). 
+{BR}{BR}
+PS: It was tricky getting those curly brackets to display above.</MESSAGE>
+    <DATE>2006-05-15T13:25:41-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>25</NUMBER>
+    <TITLE>Books from Amazon arrived </TITLE>
+    <MESSAGE>5 of my 6 books from Amazon arrived today – yippee! Don’t know when I thought I was going to read them all.
+{BR}{BR}
+It’s odd that the one book that did not ship ({a href=" http://www.amazon.com/gp/product/0201760398/sr=8-2/qid=1146515963/ref=pd_bbs_2/103-9388996-2206262?%5Fencoding=UTF8
+"}Essential ASP.NET with Examples in VB{/a}) was $20 when I ordered it, and it is now listed at $50! I bet they are hoping I’ll cancel my order on it - not a chance, I will wait years, I’ll wait until the book is obsolete, then I wait some more.
+</MESSAGE>
+    <DATE>2006-05-16T12:25:45-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>26</NUMBER>
+    <TITLE>Adding a new page to the project</TITLE>
+    <MESSAGE>Working on Blog Entry page. Already learned a few things to do when adding a page to the project. Add the following to each new page:
+{BR}{BR}
+Below &amp;lt;BODY&amp;gt;
+{BR}
+&amp;lt;!--#include file="heading.txt"--&amp;gt;
+{BR}
+Above &amp;lt;/BODY&amp;gt;
+{BR}
+&amp;lt;!--#include file="footer.txt"--&amp;gt;
+{BR}{BR}
+Above &amp;lt;/HEAD&amp;gt;
+{BR}
+&amp;lt;LINK REL="stylesheet" TYPE="text/css" HREF="styles.css"&amp;gt;
+{BR}
+&amp;lt;LINK REL="Shortcut Icon" href="jason.ico"&amp;gt;
+{BR}{BR}
+Set the pageLayout to FlowLayout (any object added before this is changed will have fixed positions, so delete them and re-add ‘em).
+</MESSAGE>
+    <DATE>2006-05-17T14:11:22-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>27</NUMBER>
+    <TITLE>Easily read the first record in a DataView</TITLE>
+    <MESSAGE>Finaly figured out how to easily read the first record in a DataView populated by an XML file (got it round about from my old ASP.NET Unleashed book). The magic code after the sort is: 
+{BR}{BR}
+txtNumber.Text = DvwBlog(0).Row("NUMBER") + 1
+</MESSAGE>
+    <DATE>2006-05-18T12:06:25-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>28</NUMBER>
+    <TITLE>Use your XML schema</TITLE>
+    <MESSAGE>To actual use your XML schema in your DataSet (make a field numeric) you must point to the schema file, and it must come BEFORE the regular XML file.
+{BR}{BR}
+DstBlog.ReadXmlSchema(Server.MapPath("blog.xsd"))
+{BR}
+DstBlog.ReadXml(Server.MapPath("blog.xml"))
+</MESSAGE>
+    <DATE>2006-05-18T12:57:47-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>29</NUMBER>
+    <TITLE>Just write to the damn file!</TITLE>
+    <MESSAGE>Added users ASPNET and IUSRNOTEBOOK to the Administrators Group. Made the Blog folder shared and added Read access to the allowed actives in IIS. 
+{BR}{BR}
+And I’m still having problems with my app writing to the XML file!</MESSAGE>
+    <DATE>2006-05-18T16:09:43-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>30</NUMBER>
+    <TITLE>Oh yeah… the reboot</TITLE>
+    <MESSAGE>I don’t know how many hundreds of times I have told users to try rebooting their computers first when they run in to problems. 
+{BR}{BR}
+Well after rebooting, my Blog app is able to write to the XML file fine. Don’t know which of the three changes I made where necessary. 
+{BR}{BR}
+I’ll back them out (or change to lower levels) to find out what is the minimum changes I can get by with.</MESSAGE>
+    <DATE>2006-05-19T10:26:35-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>31</NUMBER>
+    <TITLE>XML Dates - tricky stuff</TITLE>
+    <MESSAGE>Now the date field is not sorting properly. Changed the XML schema to dateTime, but now reading and writing to the XML won’t work. 
+{BR}{BR}
+Finally figure out the secret to XML conversion (XML has to store the date funky).
+{BR}{BR}
+Here's some examples:
+{BR}
+Test.Text = XmlConvert.ToDateTime("2006-05-09T15:24:51.0000000-04:00")
+{BR}
+Test.Text = XmlConvert.ToString(CDate("5/9/2006 3:24:51 PM"))
+</MESSAGE>
+    <DATE>2006-05-19T14:41:49-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>32</NUMBER>
+    <TITLE>Aggressive Request Validation </TITLE>
+    <MESSAGE>Had to set the ValidateRequest="false" in the &amp;lt;%@ Page section of the HTML, to get the below strings to upload correctly (ASP.NET thinks they’re potential virus attacks).
+{BR}{BR}
+&amp;lt;a href="http://www.yahoo.com"&amp;gt;Y!&amp;lt;/a&amp;gt;
+</MESSAGE>
+    <DATE>2006-05-19T15:36:13-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>33</NUMBER>
+    <TITLE>Validator control tip</TITLE>
+    <MESSAGE>I found out it is VERY importing formatting/spacing wise to put one space in front of the ErrorMessage in Validator controls.
+{BR}{BR}
+Not only does it help space error messages one space from the controls, but more importantly it doesn’t screw up your text wrapping (especially with carefully created tables).</MESSAGE>
+    <DATE>2006-05-22T14:21:14-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>34</NUMBER>
+    <TITLE>Having formatting issues with non-IE browsers?</TITLE>
+    <MESSAGE>When formatting for different browsers (non IE), it is important to let .NET know which browsers to use high level code for. The key is to include the correct &amp;lt;browserCaps&amp;gt; in the web.config file of the project (inside of the &amp;lt;system.web&amp;gt; tag). I used the ones from: 
+{BR}{BR}
+{a href="http://slingfive.com/pages/code/browserCaps/"}http://slingfive.com/pages/code/browserCaps/{/a}
+{BR}{BR}
+And they worked like a charm.
+</MESSAGE>
+    <DATE>2006-05-22T15:13:11-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>35</NUMBER>
+    <TITLE>Reading one XML record</TITLE>
+    <MESSAGE>I created a Blog Entry page (for just reading one entry referenced by Blog Number). I tried to set the page up with a Find command in a DataView, but I had problems getting the results to display directly in the HTML (not even with a Literal). So I used a DataList, not exactly my first guess for one entry, but it works great. It keeps the formatting intact, handles filters just fine, and it is even easy to use with a row return of 0.</MESSAGE>
+    <DATE>2006-05-23T10:10:36-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>36</NUMBER>
+    <TITLE>Setting the browser page title</TITLE>
+    <MESSAGE>Had problem’s setting the browser page title on the Blog Entry screen. Turn out all I had to do was set my page variable to Protected (or public) and it works perfect. 
+{BR}{BR}
+(This probably would have help display via the Find command).</MESSAGE>
+    <DATE>2006-05-23T14:15:15-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>37</NUMBER>
+    <TITLE>Deploying a Visual Studio .NET web project </TITLE>
+    <MESSAGE>I followed the {a href="http://kb.discountasp.net/article.aspx?id=10002"}
+instructions{/a} for deploying a Visual Studio .NET web project from my local computer to DiscountASP.Net servers.
+{BR}{BR}
+Would not copy file, something about couldn’t find file or file lock out? It never even asked me for a password. So I Did the Build Solution and Build Blog commands to Release (instead of my usual Debug). Then did the Copy Project and it worked like a charm. Had to add a default.htm page for a redirect however – but everything at jasonbutler.com now looks good.
+ </MESSAGE>
+    <DATE>2006-05-24T11:18:42-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>38</NUMBER>
+    <TITLE>OK, even I need an Edit feature </TITLE>
+    <MESSAGE>I added a quick (and obviously needed) Edit feature to my Blog entry page. 
+{BR}{BR}
+Surprisingly it was easy to do and it works quite well. 
+
+</MESSAGE>
+    <DATE>2006-05-25T17:24:39-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>39</NUMBER>
+    <TITLE>RSS Feed</TITLE>
+    <MESSAGE>Ok so I’ve been away for awhile... if you want to read the Blog of an {a href="http://joelonsoftware.com/"}ambitious{/a} {a href="http://www.ericsink.com/"}developer {/a}
+ you’ll need to go elsewhere.
+{BR}{BR}
+I decide to go ahead and add the RSS feed I was {a href=" http://jasonbutler.com/G2CBlog/BlogEntry.aspx?Entry=21"}toying with earlier{/a}, to my Blog.
+{BR}{BR}
+I already had the basic code working, I just had to add in the code to read to 10 most recent Blog entries from the XML file (a DataView did the trick). A little fine tuning here and there – add an {a href="http://feedicons.com/"}icon{/a} to the link (see it, over to the left, just below my cool little site description). And my humble {a href=" http://jasonbutler.com/G2CBlog/RSSFeed.aspx"}RSS feed{/a} works nice and dandy.
+
+</MESSAGE>
+    <DATE>2006-07-18T15:52:17-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>40</NUMBER>
+    <TITLE>Steps for updating my live website</TITLE>
+    <MESSAGE>1) In VS.NET, rebuilt the Solution and the Project (Blog) in Release mode.
+{BR}{BR}
+2) Next click Copy Project from the Project menu.
+{BR}{BR}
+3) {B}Destination project folder{/B} should be the web address (http://jasonbutler.com). The {B}Web access method{/B} should be Front Page, the {B}Copy{/B} should be Only files needed to run this application.
+{BR}{BR}
+4) {B}User name{/B} should be the web hosting user name (may have to change from default). The {B}Password{/B} should be the web hosting password.
+{BR}{BR}
+Be careful which files get uploaded - it could copy over newer live files. Also keep in mind that files not specifically in the project will not be copied (you can always FTP basic files). 
+</MESSAGE>
+    <DATE>2006-07-18T16:07:13-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>41</NUMBER>
+    <TITLE>This is coming to you from a new computer! Can you tell?</TITLE>
+    <MESSAGE>A couple of weeks ago the wife decided she needed a laptop for her work so I done the only thing a loving husband could do – I gave here my old laptop and went out to buy myself a new PC.
+{BR}{BR}
+I know a lot of development gurus like to buy high end laptops – but I have honestly never found a big enough benefit to buying a $2000 laptop over a $700 one. 
+{BR}{BR}
+So with that in mind (and the Sunday paper in hand) I quickly decide on the Toshiba Satellite A105-S4074. This laptop is selling all over the web for $900 to $1000, but for some reason it is going for $700 (after rebates) at {a href=" http://www.compusa.com/products/product_info.asp?product_code=339936
+"}CompUSA{/a} 
+{BR}{BR} 
+Surprisingly they had plenty in stock when I showed up – but they just could not let me have the computer with out an all out effort to sell me an extended warranty. They lowered the price from $200 to $150. The salesman said he has never sold a laptop with out something breaking on it in the first 6 months (why are they selling such crap?). He tried to get me to sign something saying I did NOT want the warranty (no I didn’t sign). After several minutes of this and my absolute reassurance that this was not the sell to be pushing the warranty on (I wouldn’t want these guys working on computer for free) he finally sold me the laptop and let me go on my way.
+{BR}{BR}
+After literally two weeks of completely reconfiguring my laptop to exacting specifications (it had 71 processes running at idle out of the box! –
+{a href="http://www.processlibrary.com/"}processlibrary.com{/a} seems to be the best website for figuring all this voodoo out) I am now up and running with a very serviceable laptop.
+{BR}{BR}
+…
+{BR}{BR}
+1) Yes I made a nicely little image (4 DVDs) of my laptop after setting everything up ever so carefully – so whenever I push my poor computer to the point of being frozen in terror, I can simply pop in a few DVDs and be back in business.
+{BR}{BR}
+2) Yes I kept MCE on the laptop. This was not my first choice, but after gutting out all the useless stuff (I really don’t need two inch people dancing around on my desktop) I got the Media stuff down to a manageable level. That and I don’t have an extra copy of XP Pro lying around – and it looks like MS has gone crazy with activation and verification (I even got caught in the infamous {a href="http://pressf1.pcworld.co.nz/showthread.php?t=69810"}Windows activation loop{/a}).
+{BR}{BR}
+3) Copying my VS.NET projects was relatively easy – just follow {a href="http://www.codeproject.com/aspnet/VSNETcopyproject.asp"}the steps{/a}. 
+</MESSAGE>
+    <DATE>2006-08-07T14:55:58-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>42</NUMBER>
+    <TITLE>ASCII and you Shall Receive</TITLE>
+    <MESSAGE>OK, so no one actually asked. From {a href="http://www.typorganism.com/asciiomatic/"}ASCII-O-Matic{/a}
+{style type="text/css"}
+{!--
+.asciiart { line-height: 7px; font-family: "Courier New", "Courier", "mono"; font-size: 11px}
+--}
+{/style}
+{/head}
+{body bgcolor="#FFFFFF" leftmargin="0", topmargin="0", marginwidth="0", marginheight="0"}
+{table width="100%" height="100%"}
+{tr}{td align="center" valign="middle"}
+{p}{pre}
+{font class="asciiart"}
+{font color="#241d15"}D{/font}{font color="#231a13"}B{/font}{font color="#1a0f09"}B{/font}{font color="#1c0d06"}B{/font}{font color="#2a160f"}B{/font}{font color="#341910"}D{/font}{font color="#6e483d"}z{/font}{font color="#916354"}={/font}{font color="#a76e5b"}+{/font}{font color="#b97960"}+{/font}{font color="#c68066"}&amp;lt;{/font}{font color="#d2886b"}&amp;lt;{/font}{font color="#e29577"}({/font}{font color="#ea9d7f"}({/font}{font color="#eda084"}~{/font}{font color="#f3a68c"}~{/font}{font color="#f1a58d"}~{/font}{font color="#f4a992"}~{/font}{font color="#faaf98"}-{/font}{font color="#fab49b"}-{/font}{font color="#fab39d"}-{/font}{font color="#f9b59e"}-{/font}{font color="#fbb8a5"}-{/font}{font color="#febba8"}-{/font}{font color="#fdbca8"}-{/font}{font color="#ffbeaa"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#ffbfa6"}-{/font}{font color="#febea5"}-{/font}{font color="#febba1"}-{/font}{font color="#fcb99f"}-{/font}{font color="#fbb59b"}-{/font}{font color="#f9b399"}-{/font}{font color="#f7af96"}~{/font}{font color="#f3ab92"}~{/font}{font color="#f0a48c"}~{/font}{font color="#eb9f87"}~{/font}{font color="#e79b83"}({/font}{font color="#e49a81"}({/font}{font color="#dc917a"}({/font}{font color="#d58f76"}({/font}{font color="#cd8972"}&amp;lt;{/font}{font color="#c28269"}&amp;lt;{/font}{font color="#b67a60"}+{/font}{font color="#a76f54"}+{/font}{font color="#9b694e"}={/font}{font color="#8f674d"}={/font}{font color="#694d37"}z{/font}{font color="#4a3824"}h{/font}{font color="#38281b"}D{/font}{font color="#33261d"}D{/font}{font color="#2f211e"}D{/font}{font color="#2a201f"}D{/font}{font color="#2a2122"}D{/font}{font color="#272324"}D{/font}{font color="#1f1b1c"}D{/font}{font color="#f1f0ee"}.{/font}{font color="#fffffd"} {/font}{font color="#fefffa"} {/font}
+{font color="#463f37"}h{/font}{font color="#170e07"}B{/font}{font color="#241913"}B{/font}{font color="#2b1c15"}D{/font}{font color="#2b1710"}D{/font}{font color="#361b12"}D{/font}{font color="#633d32"}z{/font}{font color="#8c5e4f"}={/font}{font color="#a9705d"}+{/font}{font color="#bb7a64"}+{/font}{font color="#c88268"}&amp;lt;{/font}{font color="#d3896c"}&amp;lt;{/font}{font color="#e29577"}({/font}{font color="#e99c7e"}({/font}{font color="#ec9f83"}~{/font}{font color="#f2a58b"}~{/font}{font color="#f3a78f"}~{/font}{font color="#f7ab94"}~{/font}{font color="#fbb099"}-{/font}{font color="#fbb39b"}-{/font}{font color="#fcb59f"}-{/font}{font color="#fab69f"}-{/font}{font color="#febca6"}-{/font}{font color="#ffbca9"}-{/font}{font color="#febda9"}-{/font}{font color="#ffbeaa"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#ffbfa6"}-{/font}{font color="#fdbda4"}-{/font}{font color="#fbb99f"}-{/font}{font color="#fbb89e"}-{/font}{font color="#fbb59c"}-{/font}{font color="#f9b399"}-{/font}{font color="#f7af96"}~{/font}{font color="#f4aa91"}~{/font}{font color="#eea48b"}~{/font}{font color="#eb9f87"}~{/font}{font color="#e79b83"}({/font}{font color="#e49a81"}({/font}{font color="#dc9279"}({/font}{font color="#d79178"}({/font}{font color="#d08d73"}&amp;lt;{/font}{font color="#c6866d"}&amp;lt;{/font}{font color="#ba7e64"}&amp;lt;{/font}{font color="#ac7459"}+{/font}{font color="#9f6c51"}={/font}{font color="#92684f"}={/font}{font color="#6c503a"}s{/font}{font color="#503b28"}h{/font}{font color="#402e20"}h{/font}{font color="#3d2f26"}h{/font}{font color="#352a26"}D{/font}{font color="#2d2322"}D{/font}{font color="#2b2223"}D{/font}{font color="#282425"}D{/font}{font color="#151314"}B{/font}{font color="#d7d7d5"}'{/font}{font color="#fffffb"} {/font}{font color="#f5f6f1"}.{/font}
+{font color="#9e978f"}&amp;lt;{/font}{font color="#271e17"}D{/font}{font color="#2a1f19"}D{/font}{font color="#2d1e17"}D{/font}{font color="#26120b"}B{/font}{font color="#3b2017"}D{/font}{font color="#5f392e"}z{/font}{font color="#8e6051"}={/font}{font color="#ab725f"}+{/font}{font color="#be7d67"}&amp;lt;{/font}{font color="#ca846a"}&amp;lt;{/font}{font color="#d58b6e"}&amp;lt;{/font}{font color="#e29577"}({/font}{font color="#e99c7e"}({/font}{font color="#ea9f82"}~{/font}{font color="#efa389"}~{/font}{font color="#f4a88e"}~{/font}{font color="#f7ab93"}~{/font}{font color="#f9af96"}-{/font}{font color="#f9b199"}-{/font}{font color="#f9b29c"}-{/font}{font color="#f9b59e"}-{/font}{font color="#fbb9a3"}-{/font}{font color="#febca6"}-{/font}{font color="#ffbfab"}-{/font}{font color="#ffbfab"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#febea5"}-{/font}{font color="#fcbca3"}-{/font}{font color="#fab8a0"}-{/font}{font color="#f9b69c"}-{/font}{font color="#fab49b"}-{/font}{font color="#f8b298"}-{/font}{font color="#f5ad94"}~{/font}{font color="#f3a98e"}~{/font}{font color="#eea489"}~{/font}{font color="#eaa085"}~{/font}{font color="#e99d83"}~{/font}{font color="#e59b80"}({/font}{font color="#df957a"}({/font}{font color="#da947a"}({/font}{font color="#d49177"}({/font}{font color="#cb8b70"}&amp;lt;{/font}{font color="#c08468"}&amp;lt;{/font}{font color="#b1795e"}+{/font}{font color="#a36f57"}+{/font}{font color="#976a53"}={/font}{font color="#6d4d38"}z{/font}{font color="#4f3826"}h{/font}{font color="#412e20"}h{/font}{font color="#403229"}h{/font}{font color="#3b302c"}h{/font}{font color="#322a28"}D{/font}{font color="#2e2828"}D{/font}{font color="#2d2928"}D{/font}{font color="#161614"}B{/font}{font color="#797b78"}+{/font}{font color="#eef0eb"}.{/font}{font color="#fefffb"} {/font}
+{font color="#e9e2dc"}'{/font}{font color="#484139"}z{/font}{font color="#281d17"}D{/font}{font color="#271811"}B{/font}{font color="#2a160f"}B{/font}{font color="#41261d"}D{/font}{font color="#613b30"}z{/font}{font color="#936355"}={/font}{font color="#ad7461"}+{/font}{font color="#c2816b"}&amp;lt;{/font}{font color="#cf896f"}&amp;lt;{/font}{font color="#d78d72"}({/font}{font color="#e29579"}({/font}{font color="#e89b7f"}({/font}{font color="#e99d83"}~{/font}{font color="#eda187"}~{/font}{font color="#f5a98f"}~{/font}{font color="#f7ab91"}~{/font}{font color="#f8ae95"}~{/font}{font color="#f7af96"}~{/font}{font color="#f9b19b"}-{/font}{font color="#fab39d"}-{/font}{font color="#fbb7a2"}-{/font}{font color="#fcbaa4"}-{/font}{font color="#ffbfab"}-{/font}{font color="#ffc0ac"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#ffbea8"}-{/font}{font color="#fdbca6"}-{/font}{font color="#fbbba2"}-{/font}{font color="#f9b79f"}-{/font}{font color="#f7b59d"}-{/font}{font color="#f7b39c"}-{/font}{font color="#f7b198"}-{/font}{font color="#f4ac93"}~{/font}{font color="#f2a88d"}~{/font}{font color="#eea489"}~{/font}{font color="#eba186"}~{/font}{font color="#e99f84"}~{/font}{font color="#e89e83"}~{/font}{font color="#e29b7f"}({/font}{font color="#dd987b"}({/font}{font color="#d79479"}({/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#c3876b"}&amp;lt;{/font}{font color="#b57d62"}+{/font}{font color="#a8725a"}+{/font}{font color="#9a6c55"}={/font}{font color="#76533f"}s{/font}{font color="#513623"}h{/font}{font color="#3b2518"}D{/font}{font color="#39281e"}D{/font}{font color="#392c26"}h{/font}{font color="#342c29"}h{/font}{font color="#312b2b"}D{/font}{font color="#2a2927"}D{/font}{font color="#191917"}B{/font}{font color="#393b36"}h{/font}{font color="#e3e4df"}'{/font}{font color="#fefffb"} {/font}
+{font color="#fdf8f4"} {/font}{font color="#69625c"}s{/font}{font color="#2a1f19"}D{/font}{font color="#2b1c15"}D{/font}{font color="#3b2720"}D{/font}{font color="#40251c"}D{/font}{font color="#5f392e"}z{/font}{font color="#8f5f51"}={/font}{font color="#af7663"}+{/font}{font color="#c5846e"}&amp;lt;{/font}{font color="#d48e75"}({/font}{font color="#da9075"}({/font}{font color="#e29579"}({/font}{font color="#e79a7e"}({/font}{font color="#e89c82"}({/font}{font color="#eca086"}~{/font}{font color="#f5aa8d"}~{/font}{font color="#f6aa90"}~{/font}{font color="#f7ad94"}~{/font}{font color="#f7af96"}~{/font}{font color="#fab29c"}-{/font}{font color="#fab39d"}-{/font}{font color="#fbb7a0"}-{/font}{font color="#fcbaa2"}-{/font}{font color="#fdbca6"}-{/font}{font color="#ffbea8"}-{/font}{font color="#fbbda8"}-{/font}{font color="#fbbda6"}-{/font}{font color="#f9bba4"}-{/font}{font color="#f7b9a2"}-{/font}{font color="#f6b59f"}-{/font}{font color="#f6b49c"}-{/font}{font color="#f5b19a"}-{/font}{font color="#f6b097"}~{/font}{font color="#f3ad94"}~{/font}{font color="#f1a990"}~{/font}{font color="#eea78b"}~{/font}{font color="#eca589"}~{/font}{font color="#eaa385"}~{/font}{font color="#e9a284"}~{/font}{font color="#e69f81"}({/font}{font color="#e09b7c"}({/font}{font color="#d79479"}({/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#c4876b"}&amp;lt;{/font}{font color="#b77d65"}+{/font}{font color="#aa715d"}+{/font}{font color="#9d6d59"}={/font}{font color="#88624f"}={/font}{font color="#5e3f2d"}z{/font}{font color="#3b2015"}D{/font}{font color="#2f1b12"}D{/font}{font color="#2e2119"}D{/font}{font color="#322826"}D{/font}{font color="#312b2b"}D{/font}{font color="#272322"}D{/font}{font color="#191816"}B{/font}{font color="#43443f"}z{/font}{font color="#f2f1ed"}.{/font}{font color="#f8f9f3"} {/font}
+{font color="#fffef9"} {/font}{font color="#7e7973"}+{/font}{font color="#352a26"}D{/font}{font color="#34251e"}D{/font}{font color="#412d26"}h{/font}{font color="#341910"}D{/font}{font color="#583428"}h{/font}{font color="#8e6051"}={/font}{font color="#ae7562"}+{/font}{font color="#cc8a74"}&amp;lt;{/font}{font color="#da927a"}({/font}{font color="#dd9177"}({/font}{font color="#e2957b"}({/font}{font color="#e79a7e"}({/font}{font color="#e89c82"}({/font}{font color="#eb9f85"}~{/font}{font color="#f1a58b"}~{/font}{font color="#f1a78c"}~{/font}{font color="#f4aa91"}~{/font}{font color="#f3ab92"}~{/font}{font color="#f6b097"}~{/font}{font color="#f8b49d"}-{/font}{font color="#f9b59e"}-{/font}{font color="#fab69f"}-{/font}{font color="#fcbaa4"}-{/font}{font color="#fab9a3"}-{/font}{font color="#fbbaa6"}-{/font}{font color="#f9bba6"}-{/font}{font color="#f7b9a2"}-{/font}{font color="#f7b9a2"}-{/font}{font color="#f6b59f"}-{/font}{font color="#f5b49e"}-{/font}{font color="#f6b49e"}-{/font}{font color="#f4b099"}~{/font}{font color="#f6af99"}-{/font}{font color="#f3ad94"}~{/font}{font color="#f1a990"}~{/font}{font color="#eea78b"}~{/font}{font color="#eaa385"}~{/font}{font color="#e9a284"}~{/font}{font color="#e5a07f"}({/font}{font color="#de9c7c"}({/font}{font color="#d69579"}({/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#c4876b"}&amp;lt;{/font}{font color="#b87e66"}&amp;lt;{/font}{font color="#ab725e"}+{/font}{font color="#9f6c59"}+{/font}{font color="#8e6553"}={/font}{font color="#6f4b3b"}z{/font}{font color="#412519"}D{/font}{font color="#311b10"}D{/font}{font color="#271811"}B{/font}{font color="#322924"}D{/font}{font color="#322d2a"}h{/font}{font color="#2c2827"}D{/font}{font color="#1f1b18"}D{/font}{font color="#7b7a75"}+{/font}{font color="#f7f6f1"}.{/font}{font color="#fffef9"} {/font}
+{font color="#fffef9"} {/font}{font color="#7e7973"}+{/font}{font color="#342925"}D{/font}{font color="#34251e"}D{/font}{font color="#3b2720"}D{/font}{font color="#2f140b"}B{/font}{font color="#563428"}h{/font}{font color="#8e6050"}={/font}{font color="#ae7562"}+{/font}{font color="#cc8a74"}&amp;lt;{/font}{font color="#da927a"}({/font}{font color="#dc9076"}({/font}{font color="#e2957b"}({/font}{font color="#e79a7e"}({/font}{font color="#e89c82"}({/font}{font color="#ea9e86"}~{/font}{font color="#eea48b"}~{/font}{font color="#f0a68d"}~{/font}{font color="#f3a990"}~{/font}{font color="#f5ad94"}~{/font}{font color="#f5b298"}-{/font}{font color="#f8b59b"}-{/font}{font color="#f9b59e"}-{/font}{font color="#fab69f"}-{/font}{font color="#fcbaa4"}-{/font}{font color="#fbbaa4"}-{/font}{font color="#fdbca8"}-{/font}{font color="#fdbca8"}-{/font}{font color="#f9bba6"}-{/font}{font color="#f9bba6"}-{/font}{font color="#f9bba6"}-{/font}{font color="#f9b8a2"}-{/font}{font color="#f6b49e"}-{/font}{font color="#f8b69e"}-{/font}{font color="#f7b39c"}-{/font}{font color="#f5b298"}-{/font}{font color="#f3ad94"}~{/font}{font color="#eda78d"}~{/font}{font color="#eaa387"}~{/font}{font color="#eaa385"}~{/font}{font color="#e5a081"}({/font}{font color="#de9c7c"}({/font}{font color="#d69579"}({/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#c98c70"}&amp;lt;{/font}{font color="#c0846a"}&amp;lt;{/font}{font color="#ae765f"}+{/font}{font color="#a26f5a"}+{/font}{font color="#926552"}={/font}{font color="#77503f"}s{/font}{font color="#5e3e31"}z{/font}{font color="#392115"}D{/font}{font color="#24130b"}B{/font}{font color="#2a1f19"}D{/font}{font color="#342c29"}h{/font}{font color="#2d2824"}D{/font}{font color="#241f1b"}D{/font}{font color="#9a9792"}&amp;lt;{/font}{font color="#faf9f4"} {/font}{font color="#fffef9"} {/font}
+{font color="#fcf9f4"} {/font}{font color="#67625e"}s{/font}{font color="#29201b"}D{/font}{font color="#30211c"}D{/font}{font color="#3b2720"}D{/font}{font color="#361b12"}D{/font}{font color="#563428"}h{/font}{font color="#8a5f4e"}={/font}{font color="#ae7562"}+{/font}{font color="#cc8a74"}&amp;lt;{/font}{font color="#dd957d"}({/font}{font color="#e1957b"}({/font}{font color="#e1957b"}({/font}{font color="#e69a80"}({/font}{font color="#e79b83"}({/font}{font color="#e89e85"}~{/font}{font color="#f3a990"}~{/font}{font color="#f3ab92"}~{/font}{font color="#f6ae95"}~{/font}{font color="#f9b399"}-{/font}{font color="#fbb89e"}-{/font}{font color="#fbb99f"}-{/font}{font color="#febaa3"}-{/font}{font color="#fcbaa2"}-{/font}{font color="#febca6"}-{/font}{font color="#ffbda7"}-{/font}{font color="#febda9"}-{/font}{font color="#ffbeaa"}-{/font}{font color="#fdbfaa"}-{/font}{font color="#fbbda8"}-{/font}{font color="#fbbda8"}-{/font}{font color="#fdbca8"}-{/font}{font color="#fab9a3"}-{/font}{font color="#fbb9a3"}-{/font}{font color="#fab8a2"}-{/font}{font color="#f7b39c"}-{/font}{font color="#f3ad94"}~{/font}{font color="#eda78d"}~{/font}{font color="#e8a386"}~{/font}{font color="#e5a083"}~{/font}{font color="#dd9c7e"}({/font}{font color="#d59579"}({/font}{font color="#d5957a"}({/font}{font color="#d09377"}({/font}{font color="#cc8f73"}&amp;lt;{/font}{font color="#c0846a"}&amp;lt;{/font}{font color="#ae765f"}+{/font}{font color="#a36f5a"}+{/font}{font color="#9d6c5b"}+{/font}{font color="#8f6654"}={/font}{font color="#745342"}s{/font}{font color="#462c1f"}h{/font}{font color="#251309"}B{/font}{font color="#251810"}B{/font}{font color="#281f1a"}D{/font}{font color="#271e19"}D{/font}{font color="#211a12"}B{/font}{font color="#ddd6ce"}'{/font}{font color="#fffdf5"} {/font}{font color="#f5f1e8"}.{/font}
+{font color="#fffffa"} {/font}{font color="#9a9792"}&amp;lt;{/font}{font color="#39322c"}h{/font}{font color="#2f221c"}D{/font}{font color="#321b15"}D{/font}{font color="#371b10"}D{/font}{font color="#553528"}h{/font}{font color="#7a5040"}s{/font}{font color="#ad7460"}+{/font}{font color="#cc8a72"}&amp;lt;{/font}{font color="#dd957c"}({/font}{font color="#e1957b"}({/font}{font color="#e3997e"}({/font}{font color="#e3997e"}({/font}{font color="#e99f86"}~{/font}{font color="#eba38a"}~{/font}{font color="#f5ad94"}~{/font}{font color="#f1ab91"}~{/font}{font color="#f6b097"}~{/font}{font color="#fbb59c"}-{/font}{font color="#fcb99f"}-{/font}{font color="#fab89e"}-{/font}{font color="#fdbba3"}-{/font}{font color="#ffbea6"}-{/font}{font color="#febca4"}-{/font}{font color="#ffbfa6"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#febda7"}-{/font}{font color="#fbbda8"}-{/font}{font color="#fdbfaa"}-{/font}{font color="#ffbeaa"}-{/font}{font color="#ffbfab"}-{/font}{font color="#ffbfab"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#febca6"}-{/font}{font color="#f8b49d"}-{/font}{font color="#f3ad94"}~{/font}{font color="#f0aa90"}~{/font}{font color="#e7a489"}~{/font}{font color="#dd9c80"}({/font}{font color="#cc8f73"}&amp;lt;{/font}{font color="#b5795d"}+{/font}{font color="#af7359"}+{/font}{font color="#be856a"}&amp;lt;{/font}{font color="#c1886d"}&amp;lt;{/font}{font color="#be856a"}&amp;lt;{/font}{font color="#b67e67"}&amp;lt;{/font}{font color="#a8715c"}+{/font}{font color="#9d6a57"}={/font}{font color="#8e614e"}={/font}{font color="#87624f"}={/font}{font color="#715444"}s{/font}{font color="#412e20"}h{/font}{font color="#1c0e05"}B{/font}{font color="#1b0e08"}B{/font}{font color="#261b15"}D{/font}{font color="#2b1e16"}D{/font}{font color="#84776e"}+{/font}{font color="#d1c3ba"}-{/font}{font color="#fff6eb"}.{/font}
+{font color="#fffef9"} {/font}{font color="#fffef9"} {/font}{font color="#67625e"}s{/font}{font color="#352a24"}D{/font}{font color="#2f1b14"}D{/font}{font color="#371b10"}D{/font}{font color="#462418"}D{/font}{font color="#8c6151"}={/font}{font color="#af7561"}+{/font}{font color="#c48069"}&amp;lt;{/font}{font color="#d38b72"}&amp;lt;{/font}{font color="#dc9277"}({/font}{font color="#e19a7e"}({/font}{font color="#e79f86"}~{/font}{font color="#eaa289"}~{/font}{font color="#eea68d"}~{/font}{font color="#f2ac92"}~{/font}{font color="#f6b096"}~{/font}{font color="#f7b198"}-{/font}{font color="#f8b59b"}-{/font}{font color="#fdbba1"}-{/font}{font color="#ffbea4"}-{/font}{font color="#ffbea6"}-{/font}{font color="#fdbba3"}-{/font}{font color="#ffbda5"}-{/font}{font color="#ffbfa6"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#ffbea8"}-{/font}{font color="#ffbfab"}-{/font}{font color="#ffbfab"}-{/font}{font color="#ffbeab"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#f9b8a2"}-{/font}{font color="#fbbda6"}-{/font}{font color="#fbbaa4"}-{/font}{font color="#efaf96"}~{/font}{font color="#e1a188"}~{/font}{font color="#d5957a"}({/font}{font color="#cb8b70"}&amp;lt;{/font}{font color="#c18468"}&amp;lt;{/font}{font color="#af7357"}+{/font}{font color="#b2795e"}+{/font}{font color="#ad7459"}+{/font}{font color="#a0674c"}={/font}{font color="#a36a4f"}={/font}{font color="#b27a5f"}+{/font}{font color="#b17960"}+{/font}{font color="#a8725a"}+{/font}{font color="#9f6d56"}={/font}{font color="#986955"}={/font}{font color="#8e6551"}={/font}{font color="#745340"}s{/font}{font color="#4d3626"}h{/font}{font color="#2a180c"}B{/font}{font color="#28170f"}B{/font}{font color="#321f18"}D{/font}{font color="#412e20"}h{/font}{font color="#664f41"}s{/font}{font color="#775d50"}s{/font}{font color="#aa9083"}&amp;lt;{/font}
+{font color="#fefffa"} {/font}{font color="#fffffb"} {/font}{font color="#e7e3e0"}'{/font}{font color="#6a605e"}s{/font}{font color="#3a2720"}D{/font}{font color="#361b12"}D{/font}{font color="#5e3a2e"}z{/font}{font color="#8d5e4e"}={/font}{font color="#b67964"}+{/font}{font color="#c68369"}&amp;lt;{/font}{font color="#d0886f"}&amp;lt;{/font}{font color="#da9075"}({/font}{font color="#e19980"}({/font}{font color="#e59f85"}~{/font}{font color="#e9a389"}~{/font}{font color="#f0ab8e"}~{/font}{font color="#eda78d"}~{/font}{font color="#f3ad93"}~{/font}{font color="#f8b59b"}-{/font}{font color="#f7b59b"}-{/font}{font color="#f8b69c"}-{/font}{font color="#ffbea2"}-{/font}{font color="#ffbda3"}-{/font}{font color="#fcb99f"}-{/font}{font color="#febba1"}-{/font}{font color="#febca2"}-{/font}{font color="#ffbda5"}-{/font}{font color="#fcbca3"}-{/font}{font color="#febda7"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#fcbaa4"}-{/font}{font color="#fab8a0"}-{/font}{font color="#f6b69d"}-{/font}{font color="#eaac93"}~{/font}{font color="#d3957c"}({/font}{font color="#c3876f"}&amp;lt;{/font}{font color="#b17962"}+{/font}{font color="#a66e57"}+{/font}{font color="#a36a4f"}={/font}{font color="#a2664a"}={/font}{font color="#b4785c"}+{/font}{font color="#ba7e62"}&amp;lt;{/font}{font color="#c08468"}&amp;lt;{/font}{font color="#ab6f53"}+{/font}{font color="#aa7156"}+{/font}{font color="#a87055"}+{/font}{font color="#9e684e"}={/font}{font color="#a37055"}+{/font}{font color="#9c6850"}={/font}{font color="#9b6b54"}={/font}{font color="#976a53"}={/font}{font color="#87634d"}={/font}{font color="#5b402d"}z{/font}{font color="#392214"}D{/font}{font color="#311b0e"}D{/font}{font color="#41271a"}D{/font}{font color="#745340"}s{/font}{font color="#95705d"}={/font}{font color="#966f5e"}={/font}{font color="#b48d7e"}&amp;lt;{/font}
+{font color="#fffffb"} {/font}{font color="#f6f7f2"}.{/font}{font color="#fffdfa"} {/font}{font color="#ddd5d2"}'{/font}{font color="#36251e"}D{/font}{font color="#361b12"}D{/font}{font color="#633d32"}z{/font}{font color="#905f50"}={/font}{font color="#b67964"}+{/font}{font color="#c9866c"}&amp;lt;{/font}{font color="#d48e74"}({/font}{font color="#cf896f"}&amp;lt;{/font}{font color="#cf8c72"}&amp;lt;{/font}{font color="#d49177"}({/font}{font color="#de9b80"}({/font}{font color="#e9a68b"}~{/font}{font color="#e9a68b"}~{/font}{font color="#f4b298"}-{/font}{font color="#fab89e"}-{/font}{font color="#fcbaa0"}-{/font}{font color="#f8b79b"}-{/font}{font color="#f9b69b"}-{/font}{font color="#fbb89e"}-{/font}{font color="#febba1"}-{/font}{font color="#febba1"}-{/font}{font color="#febba1"}-{/font}{font color="#fbb7a0"}-{/font}{font color="#f9b79f"}-{/font}{font color="#f8b69e"}-{/font}{font color="#f6b49c"}-{/font}{font color="#edab93"}~{/font}{font color="#e8a68c"}~{/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#c5856a"}&amp;lt;{/font}{font color="#ba7c63"}+{/font}{font color="#a0664e"}={/font}{font color="#935d45"}={/font}{font color="#99634b"}={/font}{font color="#b67c64"}+{/font}{font color="#cb8f75"}&amp;lt;{/font}{font color="#da9d81"}({/font}{font color="#d29276"}({/font}{font color="#dc9c80"}({/font}{font color="#cc8f73"}&amp;lt;{/font}{font color="#bf8669"}&amp;lt;{/font}{font color="#ad755a"}+{/font}{font color="#996349"}={/font}{font color="#9c694e"}={/font}{font color="#9c694e"}={/font}{font color="#a27057"}+{/font}{font color="#976b52"}={/font}{font color="#88624d"}={/font}{font color="#6a4e39"}z{/font}{font color="#3e2413"}D{/font}{font color="#3c2014"}D{/font}{font color="#563526"}h{/font}{font color="#7b513b"}s{/font}{font color="#ba8a73"}&amp;lt;{/font}{font color="#ba8a76"}&amp;lt;{/font}{font color="#a87766"}+{/font}
+{font color="#fffffa"} {/font}{font color="#fefff9"} {/font}{font color="#fcf9f4"} {/font}{font color="#fff8f2"} {/font}{font color="#5f4e46"}z{/font}{font color="#301409"}B{/font}{font color="#785245"}s{/font}{font color="#9c6d5b"}+{/font}{font color="#ad735d"}+{/font}{font color="#c08269"}&amp;lt;{/font}{font color="#c28267"}&amp;lt;{/font}{font color="#b6795d"}+{/font}{font color="#b6785f"}+{/font}{font color="#bb7d64"}&amp;lt;{/font}{font color="#c4866d"}&amp;lt;{/font}{font color="#ca8c73"}&amp;lt;{/font}{font color="#d3957c"}({/font}{font color="#d3967a"}({/font}{font color="#e0a085"}({/font}{font color="#edab91"}~{/font}{font color="#f4b196"}~{/font}{font color="#f3ae91"}~{/font}{font color="#f3ad93"}~{/font}{font color="#fdb79d"}-{/font}{font color="#fab49b"}-{/font}{font color="#fbb59c"}-{/font}{font color="#fab49b"}-{/font}{font color="#f8b299"}-{/font}{font color="#f6b097"}~{/font}{font color="#eeab91"}~{/font}{font color="#e4a187"}~{/font}{font color="#d7947a"}({/font}{font color="#cc8a70"}&amp;lt;{/font}{font color="#c38368"}&amp;lt;{/font}{font color="#b5775e"}+{/font}{font color="#ae7258"}+{/font}{font color="#b57b63"}+{/font}{font color="#c1876f"}&amp;lt;{/font}{font color="#e5a78e"}~{/font}{font color="#f7b79e"}-{/font}{font color="#edab91"}~{/font}{font color="#d69579"}({/font}{font color="#dd9c80"}({/font}{font color="#ce8e72"}&amp;lt;{/font}{font color="#c08468"}&amp;lt;{/font}{font color="#c1886b"}&amp;lt;{/font}{font color="#ac7459"}+{/font}{font color="#9e684c"}={/font}{font color="#a16b4f"}={/font}{font color="#a27055"}+{/font}{font color="#996c55"}={/font}{font color="#88624d"}={/font}{font color="#6c4d39"}z{/font}{font color="#422716"}D{/font}{font color="#452516"}D{/font}{font color="#643d2e"}z{/font}{font color="#9b6b55"}={/font}{font color="#be8870"}&amp;lt;{/font}{font color="#bf8672"}&amp;lt;{/font}{font color="#a36a56"}={/font}
+{font color="#fefff9"} {/font}{font color="#fefff9"} {/font}{font color="#fffffa"} {/font}{font color="#fffdf7"} {/font}{font color="#715e57"}s{/font}{font color="#371b10"}D{/font}{font color="#6e483b"}z{/font}{font color="#946553"}={/font}{font color="#ac765e"}+{/font}{font color="#b37a5f"}+{/font}{font color="#a97055"}+{/font}{font color="#a2664c"}={/font}{font color="#ab6f55"}+{/font}{font color="#af7359"}+{/font}{font color="#ac7056"}+{/font}{font color="#a66a50"}={/font}{font color="#a66a50"}={/font}{font color="#a2664c"}={/font}{font color="#a3654c"}={/font}{font color="#be7e63"}&amp;lt;{/font}{font color="#d79479"}({/font}{font color="#e3a085"}~{/font}{font color="#eda78d"}~{/font}{font color="#f3ad93"}~{/font}{font color="#f4ac94"}~{/font}{font color="#f7af97"}~{/font}{font color="#fcb49c"}-{/font}{font color="#f8b098"}-{/font}{font color="#f6b097"}~{/font}{font color="#f0aa90"}~{/font}{font color="#e39d83"}({/font}{font color="#d79479"}({/font}{font color="#d6947a"}({/font}{font color="#cd8d72"}&amp;lt;{/font}{font color="#cc8e75"}&amp;lt;{/font}{font color="#db9d84"}({/font}{font color="#e7ad95"}~{/font}{font color="#f2b8a2"}-{/font}{font color="#f0b7a3"}-{/font}{font color="#f1b7a3"}-{/font}{font color="#f3b6a1"}-{/font}{font color="#dca088"}({/font}{font color="#da9c83"}({/font}{font color="#d2967a"}({/font}{font color="#d2967a"}({/font}{font color="#cb8f73"}&amp;lt;{/font}{font color="#be8568"}&amp;lt;{/font}{font color="#a36a4f"}={/font}{font color="#a87055"}+{/font}{font color="#9f6c51"}={/font}{font color="#986a52"}={/font}{font color="#88624b"}={/font}{font color="#6e4f3b"}s{/font}{font color="#5e3f2b"}z{/font}{font color="#704b39"}z{/font}{font color="#926552"}={/font}{font color="#ac735f"}+{/font}{font color="#c2866e"}&amp;lt;{/font}{font color="#c88c74"}&amp;lt;{/font}{font color="#a96d55"}+{/font}
+{font color="#fffffa"} {/font}{font color="#fefff9"} {/font}{font color="#fffffb"} {/font}{font color="#e9e2dc"}'{/font}{font color="#433029"}h{/font}{font color="#47291f"}h{/font}{font color="#643c30"}z{/font}{font color="#9c6d5d"}+{/font}{font color="#a8745c"}+{/font}{font color="#a26a4f"}={/font}{font color="#9f674c"}={/font}{font color="#a36a4f"}={/font}{font color="#bb7e62"}&amp;lt;{/font}{font color="#c18468"}&amp;lt;{/font}{font color="#bb7d64"}&amp;lt;{/font}{font color="#ba7c63"}+{/font}{font color="#aa6c53"}+{/font}{font color="#a2664c"}={/font}{font color="#995d45"}={/font}{font color="#ab6f57"}+{/font}{font color="#c38368"}&amp;lt;{/font}{font color="#d39276"}({/font}{font color="#de9b80"}({/font}{font color="#eba689"}~{/font}{font color="#eda78d"}~{/font}{font color="#f3ad93"}~{/font}{font color="#f8b299"}-{/font}{font color="#f9b39a"}-{/font}{font color="#f6ae95"}~{/font}{font color="#f1a990"}~{/font}{font color="#e59f85"}~{/font}{font color="#d79477"}({/font}{font color="#cf8e72"}&amp;lt;{/font}{font color="#d59579"}({/font}{font color="#dc9c81"}({/font}{font color="#d2967e"}({/font}{font color="#ae7561"}+{/font}{font color="#905d4c"}={/font}{font color="#744637"}z{/font}{font color="#724639"}z{/font}{font color="#754634"}z{/font}{font color="#90604c"}={/font}{font color="#905d48"}={/font}{font color="#a26b56"}={/font}{font color="#c1876f"}&amp;lt;{/font}{font color="#c88c70"}&amp;lt;{/font}{font color="#cc8f73"}&amp;lt;{/font}{font color="#d4977b"}({/font}{font color="#b2795e"}+{/font}{font color="#a16b51"}={/font}{font color="#96664f"}={/font}{font color="#8a6249"}={/font}{font color="#74543f"}s{/font}{font color="#6f4c38"}z{/font}{font color="#946752"}={/font}{font color="#bf8873"}&amp;lt;{/font}{font color="#ad6f58"}+{/font}{font color="#c4846b"}&amp;lt;{/font}{font color="#d2947b"}({/font}{font color="#ac6e55"}+{/font}
+{font color="#f6f7f1"}.{/font}{font color="#fffffa"} {/font}{font color="#fffffa"} {/font}{font color="#dfd4ce"}'{/font}{font color="#594137"}z{/font}{font color="#3b190d"}D{/font}{font color="#6f4839"}z{/font}{font color="#8f604e"}={/font}{font color="#9b6950"}={/font}{font color="#9e684c"}={/font}{font color="#9f674c"}={/font}{font color="#b87f64"}&amp;lt;{/font}{font color="#db9e82"}({/font}{font color="#e3a68a"}~{/font}{font color="#e5a78e"}~{/font}{font color="#f3b79f"}-{/font}{font color="#e7ad95"}~{/font}{font color="#e2aa93"}~{/font}{font color="#cf9682"}({/font}{font color="#c18771"}&amp;lt;{/font}{font color="#c4886e"}&amp;lt;{/font}{font color="#cb8b70"}&amp;lt;{/font}{font color="#d69579"}({/font}{font color="#e4a186"}~{/font}{font color="#eba58b"}~{/font}{font color="#f0aa90"}~{/font}{font color="#f7b198"}-{/font}{font color="#f8b298"}-{/font}{font color="#f5ad94"}~{/font}{font color="#eea68d"}~{/font}{font color="#e09a80"}({/font}{font color="#d79479"}({/font}{font color="#d69579"}({/font}{font color="#ce8e72"}&amp;lt;{/font}{font color="#c6866b"}&amp;lt;{/font}{font color="#b97d63"}+{/font}{font color="#a7705c"}+{/font}{font color="#8d5e4e"}={/font}{font color="#643c30"}z{/font}{font color="#593326"}h{/font}{font color="#7b503f"}s{/font}{font color="#b98a78"}&amp;lt;{/font}{font color="#9b6b57"}={/font}{font color="#915d48"}={/font}{font color="#b27860"}+{/font}{font color="#c18468"}&amp;lt;{/font}{font color="#d69579"}({/font}{font color="#d69579"}({/font}{font color="#c98c70"}&amp;lt;{/font}{font color="#ac7459"}+{/font}{font color="#9e6c53"}={/font}{font color="#90664e"}={/font}{font color="#6f4c36"}z{/font}{font color="#704c36"}z{/font}{font color="#a5715b"}+{/font}{font color="#d0927b"}({/font}{font color="#c8866e"}&amp;lt;{/font}{font color="#c38169"}&amp;lt;{/font}{font color="#cb8b72"}&amp;lt;{/font}{font color="#a3654c"}={/font}
+{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fff6f0"} {/font}{font color="#e6d2c9"}'{/font}{font color="#816456"}={/font}{font color="#593422"}h{/font}{font color="#673c2b"}z{/font}{font color="#986955"}={/font}{font color="#9b6952"}={/font}{font color="#935d43"}={/font}{font color="#b2795e"}+{/font}{font color="#cc9076"}({/font}{font color="#d2967c"}({/font}{font color="#dea28a"}~{/font}{font color="#d69e87"}({/font}{font color="#c7907b"}({/font}{font color="#b27f6c"}&amp;lt;{/font}{font color="#a2725e"}+{/font}{font color="#956251"}={/font}{font color="#aa735f"}+{/font}{font color="#b97d65"}&amp;lt;{/font}{font color="#c4866d"}&amp;lt;{/font}{font color="#d29277"}({/font}{font color="#d6947a"}({/font}{font color="#eda78d"}~{/font}{font color="#f3ab92"}~{/font}{font color="#fbb59b"}-{/font}{font color="#fbb59b"}-{/font}{font color="#f1a990"}~{/font}{font color="#e6a086"}~{/font}{font color="#d79479"}({/font}{font color="#cc8a70"}&amp;lt;{/font}{font color="#d5957a"}({/font}{font color="#c38368"}&amp;lt;{/font}{font color="#c4876b"}&amp;lt;{/font}{font color="#d99d83"}({/font}{font color="#cf9780"}({/font}{font color="#915e4b"}={/font}{font color="#633828"}z{/font}{font color="#673c2c"}z{/font}{font color="#93634f"}={/font}{font color="#b57e69"}&amp;lt;{/font}{font color="#c08773"}&amp;lt;{/font}{font color="#ae745e"}+{/font}{font color="#ad7159"}+{/font}{font color="#cb8b70"}&amp;lt;{/font}{font color="#e4a184"}~{/font}{font color="#e7a487"}~{/font}{font color="#dd9c80"}({/font}{font color="#c08468"}&amp;lt;{/font}{font color="#9f6c51"}={/font}{font color="#90664d"}={/font}{font color="#76533d"}s{/font}{font color="#714b34"}z{/font}{font color="#b67e67"}&amp;lt;{/font}{font color="#e09e86"}({/font}{font color="#d2907a"}({/font}{font color="#b06e58"}+{/font}{font color="#c3816b"}&amp;lt;{/font}{font color="#bb7a64"}+{/font}
+{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fffbf5"} {/font}{font color="#d6c0b5"}-{/font}{font color="#a88373"}&amp;lt;{/font}{font color="#693c29"}z{/font}{font color="#744734"}z{/font}{font color="#996955"}={/font}{font color="#9c6852"}={/font}{font color="#a26a51"}={/font}{font color="#b97d63"}+{/font}{font color="#d3977d"}({/font}{font color="#b77d65"}+{/font}{font color="#945c45"}={/font}{font color="#98614c"}={/font}{font color="#784532"}z{/font}{font color="#663926"}z{/font}{font color="#653727"}z{/font}{font color="#764534"}z{/font}{font color="#ad7662"}+{/font}{font color="#cb8f77"}({/font}{font color="#bc7c63"}&amp;lt;{/font}{font color="#ba7a5f"}+{/font}{font color="#c7856b"}&amp;lt;{/font}{font color="#e19b81"}({/font}{font color="#eea68d"}~{/font}{font color="#f9b296"}-{/font}{font color="#fcb599"}-{/font}{font color="#f2ab8f"}~{/font}{font color="#e19a7e"}({/font}{font color="#d69077"}({/font}{font color="#d08d73"}&amp;lt;{/font}{font color="#d6947a"}({/font}{font color="#d39177"}({/font}{font color="#c6866b"}&amp;lt;{/font}{font color="#c4876b"}&amp;lt;{/font}{font color="#c3876d"}&amp;lt;{/font}{font color="#aa745c"}+{/font}{font color="#95624f"}={/font}{font color="#a06d5a"}+{/font}{font color="#b67e67"}&amp;lt;{/font}{font color="#cb8f77"}({/font}{font color="#d3957e"}({/font}{font color="#c6856f"}&amp;lt;{/font}{font color="#c3836a"}&amp;lt;{/font}{font color="#cf8d73"}&amp;lt;{/font}{font color="#de9b7e"}({/font}{font color="#de9b7e"}({/font}{font color="#d69579"}({/font}{font color="#bb7e62"}&amp;lt;{/font}{font color="#9c694c"}={/font}{font color="#92664b"}={/font}{font color="#77533d"}s{/font}{font color="#7a513b"}s{/font}{font color="#be846e"}&amp;lt;{/font}{font color="#e19d86"}({/font}{font color="#e09e88"}({/font}{font color="#bc7a64"}&amp;lt;{/font}{font color="#c6846e"}&amp;lt;{/font}{font color="#d2917b"}({/font}
+{font color="#fffffa"} {/font}{font color="#fffef9"} {/font}{font color="#fff8f2"} {/font}{font color="#a69287"}&amp;lt;{/font}{font color="#bd9281"}&amp;lt;{/font}{font color="#935f4a"}={/font}{font color="#7f4f39"}s{/font}{font color="#9e6b56"}={/font}{font color="#9f6750"}={/font}{font color="#b37961"}+{/font}{font color="#c0846a"}&amp;lt;{/font}{font color="#b67c64"}+{/font}{font color="#935d45"}={/font}{font color="#99654f"}={/font}{font color="#bf8873"}&amp;lt;{/font}{font color="#96634e"}={/font}{font color="#673c2b"}z{/font}{font color="#5d321f"}h{/font}{font color="#925e49"}={/font}{font color="#d09680"}({/font}{font color="#d3957c"}({/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#dd9c80"}({/font}{font color="#cd8a6f"}&amp;lt;{/font}{font color="#d58e72"}({/font}{font color="#eaa085"}~{/font}{font color="#f7ad90"}~{/font}{font color="#f5ab8e"}~{/font}{font color="#eea489"}~{/font}{font color="#dc9277"}({/font}{font color="#d08870"}&amp;lt;{/font}{font color="#d89078"}({/font}{font color="#e49c83"}({/font}{font color="#eba58b"}~{/font}{font color="#de9b80"}({/font}{font color="#d79479"}({/font}{font color="#d69579"}({/font}{font color="#dc9c81"}({/font}{font color="#dc9c83"}({/font}{font color="#d5957c"}({/font}{font color="#dd9c80"}({/font}{font color="#e2a185"}~{/font}{font color="#dd9b81"}({/font}{font color="#d6947a"}({/font}{font color="#d39177"}({/font}{font color="#d7947a"}({/font}{font color="#d99379"}({/font}{font color="#d79479"}({/font}{font color="#d69579"}({/font}{font color="#bf8367"}&amp;lt;{/font}{font color="#a16b4f"}={/font}{font color="#94664c"}={/font}{font color="#78523d"}s{/font}{font color="#7c523c"}s{/font}{font color="#be846c"}&amp;lt;{/font}{font color="#dd9b81"}({/font}{font color="#da967f"}({/font}{font color="#b4725c"}+{/font}{font color="#b1705a"}+{/font}{font color="#d39580"}({/font}
+{font color="#fffffa"} {/font}{font color="#fefdf8"} {/font}{font color="#fdf8f4"} {/font}{font color="#a59389"}&amp;lt;{/font}{font color="#b98a78"}&amp;lt;{/font}{font color="#bd856e"}&amp;lt;{/font}{font color="#935f49"}={/font}{font color="#a7705b"}+{/font}{font color="#b0745c"}+{/font}{font color="#c3856c"}&amp;lt;{/font}{font color="#d3957c"}({/font}{font color="#ac7056"}+{/font}{font color="#996349"}={/font}{font color="#bc866e"}&amp;lt;{/font}{font color="#c98f79"}({/font}{font color="#ab725e"}+{/font}{font color="#9d6d59"}={/font}{font color="#8f5f49"}={/font}{font color="#b77d67"}&amp;lt;{/font}{font color="#d3957c"}({/font}{font color="#c6866b"}&amp;lt;{/font}{font color="#d39276"}({/font}{font color="#e7a489"}~{/font}{font color="#c68164"}&amp;lt;{/font}{font color="#c98266"}&amp;lt;{/font}{font color="#e59b80"}({/font}{font color="#efa588"}~{/font}{font color="#eca285"}~{/font}{font color="#e79d80"}({/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#cb8168"}&amp;lt;{/font}{font color="#da9077"}({/font}{font color="#e69c83"}({/font}{font color="#eea489"}~{/font}{font color="#eca589"}~{/font}{font color="#e9a487"}~{/font}{font color="#eba689"}~{/font}{font color="#f0ab8e"}~{/font}{font color="#f0aa90"}~{/font}{font color="#eca589"}~{/font}{font color="#eca589"}~{/font}{font color="#e5a083"}~{/font}{font color="#d99477"}({/font}{font color="#d79479"}({/font}{font color="#d69076"}({/font}{font color="#d28c72"}&amp;lt;{/font}{font color="#d48e74"}({/font}{font color="#d99379"}({/font}{font color="#d59379"}({/font}{font color="#c88c70"}&amp;lt;{/font}{font color="#ab755b"}+{/font}{font color="#93654b"}={/font}{font color="#78523d"}s{/font}{font color="#7a513b"}s{/font}{font color="#b77f66"}&amp;lt;{/font}{font color="#d9997e"}({/font}{font color="#de9c84"}({/font}{font color="#be7d67"}&amp;lt;{/font}{font color="#ae7561"}+{/font}{font color="#f4c0ab"}-{/font}
+{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fffef9"} {/font}{font color="#e5d3c9"}'{/font}{font color="#a77864"}+{/font}{font color="#da9e86"}({/font}{font color="#ad755c"}+{/font}{font color="#a26850"}={/font}{font color="#b97960"}+{/font}{font color="#c9866c"}&amp;lt;{/font}{font color="#cc8a70"}&amp;lt;{/font}{font color="#bb7b60"}+{/font}{font color="#c4876b"}&amp;lt;{/font}{font color="#d3967a"}({/font}{font color="#d6947a"}({/font}{font color="#d5957a"}({/font}{font color="#d3957e"}({/font}{font color="#f1b39c"}-{/font}{font color="#e8a58b"}~{/font}{font color="#e39d84"}({/font}{font color="#eeab90"}~{/font}{font color="#eba58b"}~{/font}{font color="#dd957c"}({/font}{font color="#cc846b"}&amp;lt;{/font}{font color="#c67e65"}&amp;lt;{/font}{font color="#e0967b"}({/font}{font color="#eca184"}~{/font}{font color="#eba083"}~{/font}{font color="#e69b7e"}({/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#c97f64"}&amp;lt;{/font}{font color="#d78d72"}({/font}{font color="#e99f84"}~{/font}{font color="#eaa083"}~{/font}{font color="#eca285"}~{/font}{font color="#eda688"}~{/font}{font color="#eca587"}~{/font}{font color="#eca587"}~{/font}{font color="#eea78b"}~{/font}{font color="#eea489"}~{/font}{font color="#e69c81"}({/font}{font color="#e0967b"}({/font}{font color="#d88e73"}({/font}{font color="#d78d72"}({/font}{font color="#d58b70"}&amp;lt;{/font}{font color="#d1876c"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#d28d70"}&amp;lt;{/font}{font color="#cc8b6f"}&amp;lt;{/font}{font color="#c3876b"}&amp;lt;{/font}{font color="#b07a60"}+{/font}{font color="#93654b"}={/font}{font color="#77533d"}s{/font}{font color="#78523b"}s{/font}{font color="#af7b63"}+{/font}{font color="#c4866d"}&amp;lt;{/font}{font color="#cb8a74"}&amp;lt;{/font}{font color="#af7561"}+{/font}{font color="#af806e"}&amp;lt;{/font}{font color="#ffd9c8"}'{/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fcf9f4"} {/font}{font color="#f0dfd7"}'{/font}{font color="#986f5d"}+{/font}{font color="#cf9780"}({/font}{font color="#b67e65"}+{/font}{font color="#a5694f"}={/font}{font color="#d18f75"}({/font}{font color="#f1ab92"}~{/font}{font color="#d38d73"}({/font}{font color="#cf896f"}&amp;lt;{/font}{font color="#db987d"}({/font}{font color="#d69376"}({/font}{font color="#e5a083"}~{/font}{font color="#e5a083"}~{/font}{font color="#e09a80"}({/font}{font color="#f7b198"}-{/font}{font color="#efa58c"}~{/font}{font color="#f2a88f"}~{/font}{font color="#f7af96"}~{/font}{font color="#e79f86"}~{/font}{font color="#d58b72"}({/font}{font color="#cb8168"}&amp;lt;{/font}{font color="#be765d"}+{/font}{font color="#d78d72"}({/font}{font color="#e99e81"}~{/font}{font color="#f2a589"}~{/font}{font color="#e99e81"}~{/font}{font color="#d3896c"}&amp;lt;{/font}{font color="#c97f64"}&amp;lt;{/font}{font color="#d0896d"}&amp;lt;{/font}{font color="#d78d70"}({/font}{font color="#e19679"}({/font}{font color="#efa487"}~{/font}{font color="#eca184"}~{/font}{font color="#eba083"}~{/font}{font color="#f1a689"}~{/font}{font color="#f3a78d"}~{/font}{font color="#e89c82"}({/font}{font color="#e69a80"}({/font}{font color="#e69a80"}({/font}{font color="#e1957b"}({/font}{font color="#e2967c"}({/font}{font color="#db9073"}({/font}{font color="#d4896c"}&amp;lt;{/font}{font color="#d4896c"}&amp;lt;{/font}{font color="#cf886c"}&amp;lt;{/font}{font color="#cc8b6f"}&amp;lt;{/font}{font color="#c3876b"}&amp;lt;{/font}{font color="#ab755b"}+{/font}{font color="#93654b"}={/font}{font color="#77533d"}s{/font}{font color="#714b34"}z{/font}{font color="#9f6b53"}={/font}{font color="#af7359"}+{/font}{font color="#c4866f"}&amp;lt;{/font}{font color="#b67d69"}&amp;lt;{/font}{font color="#c49a8a"}({/font}{font color="#ffe9da"}.{/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fcf9f4"} {/font}{font color="#fbeee6"}.{/font}{font color="#af8f82"}&amp;lt;{/font}{font color="#b88b78"}&amp;lt;{/font}{font color="#bb856d"}&amp;lt;{/font}{font color="#ac6e55"}+{/font}{font color="#bd7a60"}+{/font}{font color="#e29c82"}({/font}{font color="#d58b70"}&amp;lt;{/font}{font color="#d58b6e"}&amp;lt;{/font}{font color="#e19a7c"}({/font}{font color="#e19a7c"}({/font}{font color="#eca589"}~{/font}{font color="#e19a7e"}({/font}{font color="#eca48b"}~{/font}{font color="#e69c83"}({/font}{font color="#eaa087"}~{/font}{font color="#f3a78f"}~{/font}{font color="#eaa085"}~{/font}{font color="#da9075"}({/font}{font color="#da9075"}({/font}{font color="#cb8166"}&amp;lt;{/font}{font color="#c78064"}&amp;lt;{/font}{font color="#d2886b"}&amp;lt;{/font}{font color="#e29579"}({/font}{font color="#eea183"}~{/font}{font color="#e69b7e"}({/font}{font color="#d3896c"}&amp;lt;{/font}{font color="#cb8166"}&amp;lt;{/font}{font color="#c98266"}&amp;lt;{/font}{font color="#c97f62"}&amp;lt;{/font}{font color="#d4896c"}&amp;lt;{/font}{font color="#e79c7d"}({/font}{font color="#e89b7d"}({/font}{font color="#e29579"}({/font}{font color="#ec9f83"}~{/font}{font color="#eda084"}~{/font}{font color="#e29579"}({/font}{font color="#eb9e82"}~{/font}{font color="#eda084"}~{/font}{font color="#eda084"}~{/font}{font color="#ea9d81"}~{/font}{font color="#e1947a"}({/font}{font color="#db8f75"}({/font}{font color="#d68b6e"}&amp;lt;{/font}{font color="#d0896d"}&amp;lt;{/font}{font color="#cf8e72"}&amp;lt;{/font}{font color="#c98c70"}&amp;lt;{/font}{font color="#b57d64"}+{/font}{font color="#996a50"}={/font}{font color="#77533d"}s{/font}{font color="#714b34"}z{/font}{font color="#a8725a"}+{/font}{font color="#b77960"}+{/font}{font color="#c3856c"}&amp;lt;{/font}{font color="#bd8470"}&amp;lt;{/font}{font color="#e6bcac"}-{/font}{font color="#fff0e2"}.{/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fff7ee"} {/font}{font color="#f7ddd0"}'{/font}{font color="#b38c7b"}&amp;lt;{/font}{font color="#bd8973"}&amp;lt;{/font}{font color="#ab6d54"}+{/font}{font color="#c9866c"}&amp;lt;{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#d4896c"}&amp;lt;{/font}{font color="#e19677"}({/font}{font color="#e69d7d"}({/font}{font color="#e19679"}({/font}{font color="#eea489"}~{/font}{font color="#e49a81"}({/font}{font color="#f5ab92"}~{/font}{font color="#eb9f87"}~{/font}{font color="#e79b81"}({/font}{font color="#e89c82"}({/font}{font color="#d88c72"}({/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#cb8166"}&amp;lt;{/font}{font color="#c88165"}&amp;lt;{/font}{font color="#cb8164"}&amp;lt;{/font}{font color="#dc8f71"}({/font}{font color="#e89b7d"}({/font}{font color="#db9073"}({/font}{font color="#d2886b"}&amp;lt;{/font}{font color="#c98266"}&amp;lt;{/font}{font color="#c98266"}&amp;lt;{/font}{font color="#d58b6e"}&amp;lt;{/font}{font color="#d68b6e"}&amp;lt;{/font}{font color="#e29577"}({/font}{font color="#e89b7d"}({/font}{font color="#e5957a"}({/font}{font color="#e89b7f"}({/font}{font color="#f2a589"}~{/font}{font color="#eda084"}~{/font}{font color="#eda084"}~{/font}{font color="#f2a589"}~{/font}{font color="#eda086"}~{/font}{font color="#e79a80"}({/font}{font color="#e2957b"}({/font}{font color="#e2957b"}({/font}{font color="#db8f75"}({/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#c8856a"}&amp;lt;{/font}{font color="#c98c70"}&amp;lt;{/font}{font color="#be856a"}&amp;lt;{/font}{font color="#a27057"}+{/font}{font color="#78523b"}s{/font}{font color="#734a34"}z{/font}{font color="#b57d64"}+{/font}{font color="#d9997e"}({/font}{font color="#c6866d"}&amp;lt;{/font}{font color="#c08871"}&amp;lt;{/font}{font color="#e8c1b0"}-{/font}{font color="#fff1e4"}.{/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fcf9f4"} {/font}{font color="#fff7ee"} {/font}{font color="#fff4e7"}.{/font}{font color="#a98271"}&amp;lt;{/font}{font color="#b37f6a"}&amp;lt;{/font}{font color="#b77962"}+{/font}{font color="#c48167"}&amp;lt;{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#cb8166"}&amp;lt;{/font}{font color="#d68b6e"}&amp;lt;{/font}{font color="#e19677"}({/font}{font color="#e79c7d"}({/font}{font color="#ea9d81"}~{/font}{font color="#eba083"}~{/font}{font color="#eca086"}~{/font}{font color="#f1a58b"}~{/font}{font color="#f0a389"}~{/font}{font color="#e79a7e"}({/font}{font color="#db9073"}({/font}{font color="#d3886b"}&amp;lt;{/font}{font color="#cb8166"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#c78064"}&amp;lt;{/font}{font color="#c78064"}&amp;lt;{/font}{font color="#d68b6e"}&amp;lt;{/font}{font color="#e19476"}({/font}{font color="#e09679"}({/font}{font color="#c98266"}&amp;lt;{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#e19679"}({/font}{font color="#dc8f73"}({/font}{font color="#e89b7f"}({/font}{font color="#f3a68a"}~{/font}{font color="#f2a589"}~{/font}{font color="#ec9f83"}~{/font}{font color="#eda086"}~{/font}{font color="#f1a58b"}~{/font}{font color="#f2a68c"}~{/font}{font color="#f7ab91"}~{/font}{font color="#f7ab93"}~{/font}{font color="#eca086"}~{/font}{font color="#e69a80"}({/font}{font color="#e1957b"}({/font}{font color="#dd9177"}({/font}{font color="#d78d74"}({/font}{font color="#cb856c"}&amp;lt;{/font}{font color="#c28267"}&amp;lt;{/font}{font color="#c3876d"}&amp;lt;{/font}{font color="#9f6b53"}={/font}{font color="#896148"}={/font}{font color="#744a32"}z{/font}{font color="#a26a4f"}={/font}{font color="#ecac90"}~{/font}{font color="#e09e84"}({/font}{font color="#c89079"}({/font}{font color="#e1bdad"}-{/font}{font color="#fff3e7"}.{/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffef9"} {/font}{font color="#fff7ee"} {/font}{font color="#fff4e7"}.{/font}{font color="#a78373"}&amp;lt;{/font}{font color="#ba8671"}&amp;lt;{/font}{font color="#ac6e57"}+{/font}{font color="#c48268"}&amp;lt;{/font}{font color="#c98168"}&amp;lt;{/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#db9073"}({/font}{font color="#e89b7f"}({/font}{font color="#ea9d7f"}({/font}{font color="#eda084"}~{/font}{font color="#f0a387"}~{/font}{font color="#f2a68c"}~{/font}{font color="#eca184"}~{/font}{font color="#e79a7e"}({/font}{font color="#e29579"}({/font}{font color="#e19679"}({/font}{font color="#e19679"}({/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#c98168"}&amp;lt;{/font}{font color="#c98266"}&amp;lt;{/font}{font color="#d68b6e"}&amp;lt;{/font}{font color="#e19679"}({/font}{font color="#da9073"}({/font}{font color="#c98266"}&amp;lt;{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#ca8269"}&amp;lt;{/font}{font color="#e2967c"}({/font}{font color="#e89b7f"}({/font}{font color="#f0a387"}~{/font}{font color="#f3a68a"}~{/font}{font color="#f2a589"}~{/font}{font color="#f6a98d"}~{/font}{font color="#fbaf95"}-{/font}{font color="#fbaf95"}-{/font}{font color="#fcb098"}-{/font}{font color="#fbaf97"}-{/font}{font color="#fcb098"}-{/font}{font color="#f1a58d"}~{/font}{font color="#e79b81"}({/font}{font color="#e5997f"}({/font}{font color="#e0947c"}({/font}{font color="#da9077"}({/font}{font color="#c88269"}&amp;lt;{/font}{font color="#bc7a60"}+{/font}{font color="#bf8369"}&amp;lt;{/font}{font color="#a9755d"}+{/font}{font color="#956b55"}={/font}{font color="#754831"}z{/font}{font color="#9f674e"}={/font}{font color="#d3967a"}({/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#d39f89"}({/font}{font color="#ad9082"}&amp;lt;{/font}{font color="#fff5eb"}.{/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffdf7"} {/font}{font color="#fff5eb"}.{/font}{font color="#af8f80"}&amp;lt;{/font}{font color="#ba8a74"}&amp;lt;{/font}{font color="#a4684e"}={/font}{font color="#c38167"}&amp;lt;{/font}{font color="#ca846a"}&amp;lt;{/font}{font color="#d88c72"}({/font}{font color="#e29579"}({/font}{font color="#ea9d81"}~{/font}{font color="#ec9f83"}~{/font}{font color="#f2a589"}~{/font}{font color="#f3a68a"}~{/font}{font color="#f3a68a"}~{/font}{font color="#ec9f83"}~{/font}{font color="#e89b7f"}({/font}{font color="#e89b7d"}({/font}{font color="#e99c80"}({/font}{font color="#e19679"}({/font}{font color="#d58b70"}&amp;lt;{/font}{font color="#cb8166"}&amp;lt;{/font}{font color="#c98266"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#d88d70"}({/font}{font color="#e29579"}({/font}{font color="#e19679"}({/font}{font color="#ce8469"}&amp;lt;{/font}{font color="#c68066"}&amp;lt;{/font}{font color="#c68066"}&amp;lt;{/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#d68a70"}&amp;lt;{/font}{font color="#db8f75"}({/font}{font color="#e1957b"}({/font}{font color="#e79b81"}({/font}{font color="#eb9f85"}~{/font}{font color="#f1a58d"}~{/font}{font color="#f6aa92"}~{/font}{font color="#fbb198"}-{/font}{font color="#fdb39a"}-{/font}{font color="#fdb199"}-{/font}{font color="#f4a890"}~{/font}{font color="#eb9f87"}~{/font}{font color="#e79b83"}({/font}{font color="#df947d"}({/font}{font color="#d89078"}({/font}{font color="#cf8970"}&amp;lt;{/font}{font color="#bf7d63"}&amp;lt;{/font}{font color="#b5795f"}+{/font}{font color="#ab755d"}+{/font}{font color="#8c5e4e"}={/font}{font color="#653727"}z{/font}{font color="#965d49"}={/font}{font color="#c88c74"}&amp;lt;{/font}{font color="#eaac95"}~{/font}{font color="#a87864"}+{/font}{font color="#a89287"}&amp;lt;{/font}{font color="#fff7f0"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffef7"} {/font}{font color="#fff6ee"} {/font}{font color="#dac0b1"}-{/font}{font color="#af806c"}&amp;lt;{/font}{font color="#a97055"}+{/font}{font color="#be7e65"}&amp;lt;{/font}{font color="#cc866c"}&amp;lt;{/font}{font color="#db8f75"}({/font}{font color="#e89b7f"}({/font}{font color="#ec9f83"}~{/font}{font color="#f2a589"}~{/font}{font color="#f3a68a"}~{/font}{font color="#f3a68a"}~{/font}{font color="#f6a98d"}~{/font}{font color="#f3a68a"}~{/font}{font color="#f3a688"}~{/font}{font color="#f2a587"}~{/font}{font color="#e19679"}({/font}{font color="#d68a70"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#c97f64"}&amp;lt;{/font}{font color="#c98266"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#da8f72"}({/font}{font color="#ea9d81"}~{/font}{font color="#e69b7e"}({/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#c68066"}&amp;lt;{/font}{font color="#bd775d"}+{/font}{font color="#c98266"}&amp;lt;{/font}{font color="#c97f64"}&amp;lt;{/font}{font color="#cb8166"}&amp;lt;{/font}{font color="#d78d72"}({/font}{font color="#e1957d"}({/font}{font color="#dd9179"}({/font}{font color="#dd9179"}({/font}{font color="#e79b83"}({/font}{font color="#f0a68d"}~{/font}{font color="#f4aa91"}~{/font}{font color="#f7ab93"}~{/font}{font color="#f1a58d"}~{/font}{font color="#eb9f87"}~{/font}{font color="#e79b83"}({/font}{font color="#df947d"}({/font}{font color="#da927a"}({/font}{font color="#cb856c"}&amp;lt;{/font}{font color="#be7e63"}&amp;lt;{/font}{font color="#b5795f"}+{/font}{font color="#ae7a62"}+{/font}{font color="#8c5e4e"}={/font}{font color="#693b2c"}z{/font}{font color="#9c6755"}={/font}{font color="#cb9480"}({/font}{font color="#cb9885"}({/font}{font color="#8a6555"}={/font}{font color="#efe1d8"}'{/font}{font color="#fffef7"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fff8f0"} {/font}{font color="#f4ded1"}'{/font}{font color="#9e7362"}+{/font}{font color="#aa705a"}+{/font}{font color="#bb7b62"}+{/font}{font color="#cc866c"}&amp;lt;{/font}{font color="#db8f75"}({/font}{font color="#e79a7e"}({/font}{font color="#ea9d81"}~{/font}{font color="#f2a589"}~{/font}{font color="#f3a68a"}~{/font}{font color="#f6a98d"}~{/font}{font color="#f6ab8e"}~{/font}{font color="#f3a88b"}~{/font}{font color="#f3a68a"}~{/font}{font color="#ea9f82"}~{/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#cb8166"}&amp;lt;{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#c78064"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#e19679"}({/font}{font color="#ec9f83"}~{/font}{font color="#ea9d81"}~{/font}{font color="#db8f75"}({/font}{font color="#c98168"}&amp;lt;{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#ce8469"}&amp;lt;{/font}{font color="#d0896d"}&amp;lt;{/font}{font color="#c98168"}&amp;lt;{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#d78c75"}({/font}{font color="#dd9179"}({/font}{font color="#d88c74"}({/font}{font color="#d68a70"}&amp;lt;{/font}{font color="#df957c"}({/font}{font color="#e69c83"}({/font}{font color="#eb9f88"}~{/font}{font color="#eb9f88"}~{/font}{font color="#e69b84"}({/font}{font color="#e49982"}({/font}{font color="#e0957e"}({/font}{font color="#da927a"}({/font}{font color="#c58268"}&amp;lt;{/font}{font color="#be7e63"}&amp;lt;{/font}{font color="#b67a60"}+{/font}{font color="#ae7a62"}+{/font}{font color="#906552"}={/font}{font color="#744b39"}s{/font}{font color="#7d4f3f"}s{/font}{font color="#9d7363"}+{/font}{font color="#816456"}={/font}{font color="#a59387"}&amp;lt;{/font}{font color="#fff8f0"} {/font}{font color="#f6f5f0"}.{/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fdf8f2"} {/font}{font color="#f1dfd5"}'{/font}{font color="#a37969"}+{/font}{font color="#a36a56"}={/font}{font color="#b97862"}+{/font}{font color="#cb856c"}&amp;lt;{/font}{font color="#e1957b"}({/font}{font color="#e79a7e"}({/font}{font color="#ec9f83"}~{/font}{font color="#f2a589"}~{/font}{font color="#f2a589"}~{/font}{font color="#f1a689"}~{/font}{font color="#f2a78a"}~{/font}{font color="#e69b7e"}({/font}{font color="#e19679"}({/font}{font color="#d88c72"}({/font}{font color="#c78064"}&amp;lt;{/font}{font color="#c68066"}&amp;lt;{/font}{font color="#c98168"}&amp;lt;{/font}{font color="#c67e65"}&amp;lt;{/font}{font color="#c98266"}&amp;lt;{/font}{font color="#d78d72"}({/font}{font color="#e89c82"}({/font}{font color="#f2a589"}~{/font}{font color="#f2a589"}~{/font}{font color="#e69a80"}({/font}{font color="#d78d72"}({/font}{font color="#cc8569"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#df987c"}({/font}{font color="#cb856c"}&amp;lt;{/font}{font color="#b67057"}+{/font}{font color="#c97e67"}&amp;lt;{/font}{font color="#e0947c"}({/font}{font color="#db8f75"}({/font}{font color="#ce8469"}&amp;lt;{/font}{font color="#d78d74"}({/font}{font color="#db9178"}({/font}{font color="#e49982"}({/font}{font color="#e69b84"}({/font}{font color="#e69b84"}({/font}{font color="#e49982"}({/font}{font color="#dc917a"}({/font}{font color="#d68e76"}({/font}{font color="#c58369"}&amp;lt;{/font}{font color="#bb7e62"}&amp;lt;{/font}{font color="#ad7459"}+{/font}{font color="#a27057"}+{/font}{font color="#8a5f4c"}={/font}{font color="#643e2b"}z{/font}{font color="#633827"}z{/font}{font color="#8a6658"}={/font}{font color="#a59387"}&amp;lt;{/font}{font color="#f5eee6"}.{/font}{font color="#fffef7"} {/font}{font color="#fffef9"} {/font}
+{font color="#fffffb"} {/font}{font color="#fefffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fcf9f2"} {/font}{font color="#fff6ec"}.{/font}{font color="#d8b3a3"}~{/font}{font color="#a5715c"}+{/font}{font color="#b27560"}+{/font}{font color="#c9856e"}&amp;lt;{/font}{font color="#e0967d"}({/font}{font color="#ea9d83"}~{/font}{font color="#eb9f85"}~{/font}{font color="#eb9f85"}~{/font}{font color="#eb9f85"}~{/font}{font color="#e69a80"}({/font}{font color="#e3977d"}({/font}{font color="#d78d72"}({/font}{font color="#d78d72"}({/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#bf795f"}+{/font}{font color="#c48166"}&amp;lt;{/font}{font color="#c88268"}&amp;lt;{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#e0967b"}({/font}{font color="#f1a58b"}~{/font}{font color="#f7ab91"}~{/font}{font color="#f7ab91"}~{/font}{font color="#eb9f85"}~{/font}{font color="#da9075"}({/font}{font color="#ce8469"}&amp;lt;{/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#de977b"}({/font}{font color="#cd8a70"}&amp;lt;{/font}{font color="#ba775d"}+{/font}{font color="#cc846b"}&amp;lt;{/font}{font color="#e59b80"}({/font}{font color="#e3997e"}({/font}{font color="#da9075"}({/font}{font color="#d2886f"}&amp;lt;{/font}{font color="#d0886f"}&amp;lt;{/font}{font color="#d58d75"}({/font}{font color="#da927a"}({/font}{font color="#e19980"}({/font}{font color="#dd957c"}({/font}{font color="#da9077"}({/font}{font color="#cf896f"}&amp;lt;{/font}{font color="#c28267"}&amp;lt;{/font}{font color="#b4785e"}+{/font}{font color="#ad735b"}+{/font}{font color="#a06e57"}+{/font}{font color="#8a5f4c"}={/font}{font color="#78523f"}s{/font}{font color="#754636"}z{/font}{font color="#c19c8c"}({/font}{font color="#fff5eb"}.{/font}{font color="#fcf7f1"} {/font}{font color="#fffef9"} {/font}{font color="#fefff9"} {/font}
+{font color="#fffffb"} {/font}{font color="#f6f7f2"}.{/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffef9"} {/font}{font color="#fff6ee"} {/font}{font color="#fbdbce"}'{/font}{font color="#a67868"}+{/font}{font color="#ae7562"}+{/font}{font color="#c7856f"}&amp;lt;{/font}{font color="#e49982"}({/font}{font color="#e79b81"}({/font}{font color="#e79b81"}({/font}{font color="#e79b81"}({/font}{font color="#e49a7f"}({/font}{font color="#dc9277"}({/font}{font color="#d68c71"}({/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#dc9277"}({/font}{font color="#d89077"}({/font}{font color="#c48166"}&amp;lt;{/font}{font color="#bb785e"}+{/font}{font color="#c88269"}&amp;lt;{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#c88067"}&amp;lt;{/font}{font color="#dc9279"}({/font}{font color="#f5a991"}~{/font}{font color="#fcb098"}-{/font}{font color="#fbaf95"}-{/font}{font color="#eba186"}~{/font}{font color="#d58b72"}({/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#c97f64"}&amp;lt;{/font}{font color="#c98168"}&amp;lt;{/font}{font color="#bb785e"}+{/font}{font color="#bb785e"}+{/font}{font color="#d0886f"}&amp;lt;{/font}{font color="#da9075"}({/font}{font color="#da9279"}({/font}{font color="#e69e85"}~{/font}{font color="#cb856b"}&amp;lt;{/font}{font color="#c88268"}&amp;lt;{/font}{font color="#c88269"}&amp;lt;{/font}{font color="#d28c73"}({/font}{font color="#d7947a"}({/font}{font color="#d99379"}({/font}{font color="#d58d74"}({/font}{font color="#cb856b"}&amp;lt;{/font}{font color="#b6795d"}+{/font}{font color="#ad7459"}+{/font}{font color="#b67e65"}+{/font}{font color="#a6745d"}+{/font}{font color="#7a513d"}s{/font}{font color="#633e2c"}z{/font}{font color="#6e4738"}z{/font}{font color="#e3c3b8"}-{/font}{font color="#fff6ee"} {/font}{font color="#fffef7"} {/font}{font color="#fffef9"} {/font}{font color="#f6f7f1"}.{/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffef8"} {/font}{font color="#fff4eb"}.{/font}{font color="#ebc7b9"}-{/font}{font color="#9f6c59"}+{/font}{font color="#c2816b"}&amp;lt;{/font}{font color="#da927a"}({/font}{font color="#e59981"}({/font}{font color="#e1957d"}({/font}{font color="#e69c83"}({/font}{font color="#d68e75"}({/font}{font color="#d68e75"}({/font}{font color="#c98168"}&amp;lt;{/font}{font color="#d68e75"}({/font}{font color="#da9279"}({/font}{font color="#d58f75"}({/font}{font color="#cf896f"}&amp;lt;{/font}{font color="#c48167"}&amp;lt;{/font}{font color="#bd775e"}+{/font}{font color="#c88269"}&amp;lt;{/font}{font color="#bd775e"}+{/font}{font color="#c77f66"}&amp;lt;{/font}{font color="#e59b82"}({/font}{font color="#f1a58d"}~{/font}{font color="#eca086"}~{/font}{font color="#e0967d"}({/font}{font color="#bd775e"}+{/font}{font color="#bd775e"}+{/font}{font color="#d78d74"}({/font}{font color="#d78d72"}({/font}{font color="#cb856b"}&amp;lt;{/font}{font color="#cb856b"}&amp;lt;{/font}{font color="#d58d74"}({/font}{font color="#cf876e"}&amp;lt;{/font}{font color="#cb856c"}&amp;lt;{/font}{font color="#d08d73"}&amp;lt;{/font}{font color="#cc8a70"}&amp;lt;{/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#bd7d64"}&amp;lt;{/font}{font color="#b8785f"}+{/font}{font color="#c38169"}&amp;lt;{/font}{font color="#cf8d73"}&amp;lt;{/font}{font color="#d39075"}({/font}{font color="#c38266"}&amp;lt;{/font}{font color="#bb7e62"}&amp;lt;{/font}{font color="#a97055"}+{/font}{font color="#b17960"}+{/font}{font color="#a6745d"}+{/font}{font color="#88624d"}={/font}{font color="#6a4d3d"}z{/font}{font color="#745e53"}s{/font}{font color="#eedfd8"}'{/font}{font color="#fef7f1"} {/font}{font color="#fffef9"} {/font}{font color="#fffffa"} {/font}{font color="#fdfef8"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fffbf3"} {/font}{font color="#f7dcd1"}'{/font}{font color="#af806e"}&amp;lt;{/font}{font color="#b97b64"}+{/font}{font color="#d08c75"}({/font}{font color="#de967e"}({/font}{font color="#df947d"}({/font}{font color="#e49a81"}({/font}{font color="#cf8970"}&amp;lt;{/font}{font color="#c68067"}&amp;lt;{/font}{font color="#d58d74"}({/font}{font color="#d58f75"}({/font}{font color="#cf8970"}&amp;lt;{/font}{font color="#cb856c"}&amp;lt;{/font}{font color="#cb856c"}&amp;lt;{/font}{font color="#c38066"}&amp;lt;{/font}{font color="#bd7962"}+{/font}{font color="#c6826b"}&amp;lt;{/font}{font color="#c6826b"}&amp;lt;{/font}{font color="#bb785e"}+{/font}{font color="#c98169"}&amp;lt;{/font}{font color="#dd957c"}({/font}{font color="#dd957c"}({/font}{font color="#cb856b"}&amp;lt;{/font}{font color="#ba7860"}+{/font}{font color="#c38169"}&amp;lt;{/font}{font color="#c77f67"}&amp;lt;{/font}{font color="#c98168"}&amp;lt;{/font}{font color="#c98168"}&amp;lt;{/font}{font color="#c88268"}&amp;lt;{/font}{font color="#cc846b"}&amp;lt;{/font}{font color="#c88269"}&amp;lt;{/font}{font color="#c48069"}&amp;lt;{/font}{font color="#c6846c"}&amp;lt;{/font}{font color="#c6866b"}&amp;lt;{/font}{font color="#cc8f73"}&amp;lt;{/font}{font color="#c1836a"}&amp;lt;{/font}{font color="#bb7d64"}&amp;lt;{/font}{font color="#bd7d64"}&amp;lt;{/font}{font color="#be7c62"}&amp;lt;{/font}{font color="#cc8a70"}&amp;lt;{/font}{font color="#cc8a70"}&amp;lt;{/font}{font color="#b5795f"}+{/font}{font color="#b37a5f"}+{/font}{font color="#b57d64"}+{/font}{font color="#a7755e"}+{/font}{font color="#78523d"}s{/font}{font color="#674b3d"}z{/font}{font color="#a1948b"}&amp;lt;{/font}{font color="#fdf8f2"} {/font}{font color="#fffef9"} {/font}{font color="#fffffa"} {/font}{font color="#fefff9"} {/font}{font color="#fefff9"} {/font}
+{font color="#fffffb"} {/font}{font color="#fefffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fffef8"} {/font}{font color="#fff4eb"}.{/font}{font color="#c79a87"}({/font}{font color="#ab6e59"}+{/font}{font color="#c6846e"}&amp;lt;{/font}{font color="#d48d77"}({/font}{font color="#d89078"}({/font}{font color="#d79178"}({/font}{font color="#c88269"}&amp;lt;{/font}{font color="#bf7c62"}&amp;lt;{/font}{font color="#c88269"}&amp;lt;{/font}{font color="#c88269"}&amp;lt;{/font}{font color="#bf7862"}+{/font}{font color="#bd7a60"}+{/font}{font color="#c48167"}&amp;lt;{/font}{font color="#c38167"}&amp;lt;{/font}{font color="#c38169"}&amp;lt;{/font}{font color="#cc8a72"}&amp;lt;{/font}{font color="#c6846c"}&amp;lt;{/font}{font color="#ba7860"}+{/font}{font color="#ba7860"}+{/font}{font color="#ba7860"}+{/font}{font color="#b97960"}+{/font}{font color="#b8785f"}+{/font}{font color="#b2745b"}+{/font}{font color="#c3826c"}&amp;lt;{/font}{font color="#c38169"}&amp;lt;{/font}{font color="#c9826c"}&amp;lt;{/font}{font color="#cf8970"}&amp;lt;{/font}{font color="#d58d75"}({/font}{font color="#cf8970"}&amp;lt;{/font}{font color="#c9836a"}&amp;lt;{/font}{font color="#c7836c"}&amp;lt;{/font}{font color="#bf7d65"}&amp;lt;{/font}{font color="#c6866b"}&amp;lt;{/font}{font color="#c4876b"}&amp;lt;{/font}{font color="#bb7d64"}&amp;lt;{/font}{font color="#c1836a"}&amp;lt;{/font}{font color="#c6866b"}&amp;lt;{/font}{font color="#cc8a70"}&amp;lt;{/font}{font color="#d39177"}({/font}{font color="#cb8b70"}&amp;lt;{/font}{font color="#af7359"}+{/font}{font color="#b87f64"}&amp;lt;{/font}{font color="#b87e66"}&amp;lt;{/font}{font color="#a8745e"}+{/font}{font color="#7a513d"}s{/font}{font color="#705544"}s{/font}{font color="#e2d5cd"}'{/font}{font color="#fffef9"} {/font}{font color="#fffef9"} {/font}{font color="#fefff9"} {/font}{font color="#fefffa"} {/font}{font color="#fefffa"} {/font}
+{font color="#fffffb"} {/font}{font color="#fefffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fff6ed"} {/font}{font color="#e7c2b2"}-{/font}{font color="#a06c57"}={/font}{font color="#b87b66"}+{/font}{font color="#c6846e"}&amp;lt;{/font}{font color="#cd8972"}&amp;lt;{/font}{font color="#c68369"}&amp;lt;{/font}{font color="#c48167"}&amp;lt;{/font}{font color="#c68369"}&amp;lt;{/font}{font color="#bd7a60"}+{/font}{font color="#c48167"}&amp;lt;{/font}{font color="#c48069"}&amp;lt;{/font}{font color="#c38169"}&amp;lt;{/font}{font color="#bf7d63"}&amp;lt;{/font}{font color="#bf7d63"}&amp;lt;{/font}{font color="#c07c65"}&amp;lt;{/font}{font color="#c7836c"}&amp;lt;{/font}{font color="#c7836c"}&amp;lt;{/font}{font color="#cd8972"}&amp;lt;{/font}{font color="#c7856d"}&amp;lt;{/font}{font color="#ba7a61"}+{/font}{font color="#b7775e"}+{/font}{font color="#bc7c63"}&amp;lt;{/font}{font color="#c6866d"}&amp;lt;{/font}{font color="#ce8e75"}({/font}{font color="#d5937b"}({/font}{font color="#d49079"}({/font}{font color="#d7907a"}({/font}{font color="#d79178"}({/font}{font color="#cd8a70"}&amp;lt;{/font}{font color="#d18f77"}({/font}{font color="#cb8a74"}&amp;lt;{/font}{font color="#bc7e67"}&amp;lt;{/font}{font color="#b07259"}+{/font}{font color="#b77a5e"}+{/font}{font color="#bd7d62"}&amp;lt;{/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#da997d"}({/font}{font color="#dd9c80"}({/font}{font color="#da997d"}({/font}{font color="#cc8c71"}&amp;lt;{/font}{font color="#af7359"}+{/font}{font color="#b37961"}+{/font}{font color="#bd856e"}&amp;lt;{/font}{font color="#a4715c"}+{/font}{font color="#77523f"}s{/font}{font color="#7d6658"}={/font}{font color="#fff7ee"} {/font}{font color="#fcf9f4"} {/font}{font color="#fffef9"} {/font}{font color="#fffffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffffa"} {/font}{font color="#fefff9"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fff7f0"} {/font}{font color="#ffece1"}.{/font}{font color="#a78373"}&amp;lt;{/font}{font color="#a4715e"}+{/font}{font color="#b97c67"}&amp;lt;{/font}{font color="#c6866d"}&amp;lt;{/font}{font color="#c48167"}&amp;lt;{/font}{font color="#bb785e"}+{/font}{font color="#c58268"}&amp;lt;{/font}{font color="#bc7a62"}+{/font}{font color="#bb7b62"}+{/font}{font color="#be7e65"}&amp;lt;{/font}{font color="#c4846b"}&amp;lt;{/font}{font color="#c8866c"}&amp;lt;{/font}{font color="#cd8a70"}&amp;lt;{/font}{font color="#d58f76"}({/font}{font color="#d79178"}({/font}{font color="#e19981"}({/font}{font color="#e29a82"}({/font}{font color="#e49c84"}({/font}{font color="#eba58c"}~{/font}{font color="#e7a188"}~{/font}{font color="#e49e85"}({/font}{font color="#eca68d"}~{/font}{font color="#eeab91"}~{/font}{font color="#e39d84"}({/font}{font color="#d7937c"}({/font}{font color="#dc957f"}({/font}{font color="#db9780"}({/font}{font color="#cc8a72"}&amp;lt;{/font}{font color="#c3856c"}&amp;lt;{/font}{font color="#a96f57"}+{/font}{font color="#955b43"}={/font}{font color="#a2664c"}={/font}{font color="#be7e63"}&amp;lt;{/font}{font color="#cf8e72"}&amp;lt;{/font}{font color="#db987b"}({/font}{font color="#de9b7e"}({/font}{font color="#e29f82"}({/font}{font color="#dd9c80"}({/font}{font color="#c6866b"}&amp;lt;{/font}{font color="#af7359"}+{/font}{font color="#bd856c"}&amp;lt;{/font}{font color="#bf8971"}&amp;lt;{/font}{font color="#996c57"}={/font}{font color="#694e3d"}z{/font}{font color="#a49487"}&amp;lt;{/font}{font color="#fff8f0"} {/font}{font color="#fffef9"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fefffa"} {/font}
+{font color="#fefff9"} {/font}{font color="#fffffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fff7ee"} {/font}{font color="#a89084"}&amp;lt;{/font}{font color="#9a6f5e"}+{/font}{font color="#aa735e"}+{/font}{font color="#cc8e75"}&amp;lt;{/font}{font color="#d08d73"}&amp;lt;{/font}{font color="#cb856c"}&amp;lt;{/font}{font color="#cb856c"}&amp;lt;{/font}{font color="#c38167"}&amp;lt;{/font}{font color="#b7775c"}+{/font}{font color="#ac6e55"}+{/font}{font color="#b07259"}+{/font}{font color="#b97960"}+{/font}{font color="#c38169"}&amp;lt;{/font}{font color="#cc896f"}&amp;lt;{/font}{font color="#d58d75"}({/font}{font color="#d68e75"}({/font}{font color="#e29a81"}({/font}{font color="#e49c83"}({/font}{font color="#eda58d"}~{/font}{font color="#f4ac94"}~{/font}{font color="#f4ac94"}~{/font}{font color="#f4ac94"}~{/font}{font color="#e39d84"}({/font}{font color="#e39d84"}({/font}{font color="#d08d73"}&amp;lt;{/font}{font color="#c07c65"}&amp;lt;{/font}{font color="#b5735b"}+{/font}{font color="#af6f56"}+{/font}{font color="#ab6f55"}+{/font}{font color="#a26a51"}={/font}{font color="#9f674e"}={/font}{font color="#b07259"}+{/font}{font color="#cc8a70"}&amp;lt;{/font}{font color="#db987d"}({/font}{font color="#de9b7e"}({/font}{font color="#e5a081"}({/font}{font color="#e7a487"}~{/font}{font color="#dd9c80"}({/font}{font color="#bb7e62"}&amp;lt;{/font}{font color="#ab6f55"}+{/font}{font color="#c89077"}&amp;lt;{/font}{font color="#b37f69"}&amp;lt;{/font}{font color="#8a614f"}={/font}{font color="#665043"}s{/font}{font color="#ded5cc"}'{/font}{font color="#fdf8f2"} {/font}{font color="#fffef9"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffef9"} {/font}{font color="#fffef9"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fefffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fffdf7"} {/font}{font color="#e4d3cb"}'{/font}{font color="#a78373"}&amp;lt;{/font}{font color="#a4715c"}+{/font}{font color="#c3876d"}&amp;lt;{/font}{font color="#de9b80"}({/font}{font color="#e6a086"}~{/font}{font color="#e59f85"}~{/font}{font color="#d69378"}({/font}{font color="#bf7e62"}&amp;lt;{/font}{font color="#b07357"}+{/font}{font color="#a0664e"}={/font}{font color="#945c45"}={/font}{font color="#a06650"}={/font}{font color="#ae6e55"}+{/font}{font color="#bb785e"}+{/font}{font color="#bf7960"}+{/font}{font color="#cb856c"}&amp;lt;{/font}{font color="#c78168"}&amp;lt;{/font}{font color="#c9856e"}&amp;lt;{/font}{font color="#cd8972"}&amp;lt;{/font}{font color="#cd8972"}&amp;lt;{/font}{font color="#d38f78"}({/font}{font color="#c7836c"}&amp;lt;{/font}{font color="#b6725b"}+{/font}{font color="#bf7b64"}&amp;lt;{/font}{font color="#c7836c"}&amp;lt;{/font}{font color="#d7937c"}({/font}{font color="#d4927a"}({/font}{font color="#be7e65"}&amp;lt;{/font}{font color="#a97055"}+{/font}{font color="#a36a4f"}={/font}{font color="#c8866c"}&amp;lt;{/font}{font color="#d99379"}({/font}{font color="#dd987b"}({/font}{font color="#e09b7e"}({/font}{font color="#eba689"}~{/font}{font color="#e7a487"}~{/font}{font color="#d49478"}({/font}{font color="#af7357"}+{/font}{font color="#b5795f"}+{/font}{font color="#c0886f"}&amp;lt;{/font}{font color="#a7745f"}+{/font}{font color="#775242"}s{/font}{font color="#87766e"}+{/font}{font color="#f2efe8"}.{/font}{font color="#f7f6f1"}.{/font}{font color="#fffffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#faf9f4"} {/font}{font color="#fffef9"} {/font}{font color="#fefffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffef9"} {/font}{font color="#fff7ee"} {/font}{font color="#af8f82"}&amp;lt;{/font}{font color="#a17260"}+{/font}{font color="#b77d65"}+{/font}{font color="#e2a086"}~{/font}{font color="#f3ad93"}~{/font}{font color="#f9b399"}-{/font}{font color="#eaa48a"}~{/font}{font color="#db987d"}({/font}{font color="#cb8b70"}&amp;lt;{/font}{font color="#b5795f"}+{/font}{font color="#955f47"}={/font}{font color="#9d674f"}={/font}{font color="#c0826b"}&amp;lt;{/font}{font color="#d9977f"}({/font}{font color="#cd8a70"}&amp;lt;{/font}{font color="#cb846e"}&amp;lt;{/font}{font color="#bd7962"}+{/font}{font color="#c38169"}&amp;lt;{/font}{font color="#bb7b62"}+{/font}{font color="#a8684f"}={/font}{font color="#bf7d65"}&amp;lt;{/font}{font color="#d6947c"}({/font}{font color="#e09e86"}({/font}{font color="#edab93"}~{/font}{font color="#f4b29a"}-{/font}{font color="#f4b29a"}-{/font}{font color="#e09e86"}({/font}{font color="#bb7b62"}+{/font}{font color="#a0674c"}={/font}{font color="#ac7054"}+{/font}{font color="#c68368"}&amp;lt;{/font}{font color="#d89077"}({/font}{font color="#dd987b"}({/font}{font color="#e5a083"}~{/font}{font color="#e5a083"}~{/font}{font color="#d69579"}({/font}{font color="#c98c70"}&amp;lt;{/font}{font color="#b4785c"}+{/font}{font color="#c3876d"}&amp;lt;{/font}{font color="#b57d66"}+{/font}{font color="#a4715c"}+{/font}{font color="#765242"}s{/font}{font color="#e2d3cc"}'{/font}{font color="#fbfaf5"} {/font}{font color="#fefff9"} {/font}{font color="#fefff9"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fefffa"} {/font}{font color="#fefffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fffcf5"} {/font}{font color="#ecd0c5"}'{/font}{font color="#a37969"}+{/font}{font color="#a5715b"}+{/font}{font color="#d3957c"}({/font}{font color="#edaa90"}~{/font}{font color="#f4ae94"}~{/font}{font color="#f3ad93"}~{/font}{font color="#e39d83"}({/font}{font color="#dc967d"}({/font}{font color="#c8866c"}&amp;lt;{/font}{font color="#a97055"}+{/font}{font color="#9f674c"}={/font}{font color="#b1735c"}+{/font}{font color="#eeac96"}~{/font}{font color="#f7b39c"}-{/font}{font color="#f5b19a"}-{/font}{font color="#f4b29c"}-{/font}{font color="#fab9a3"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#fec0a9"}-{/font}{font color="#fdbca6"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#febca6"}-{/font}{font color="#f8b6a0"}-{/font}{font color="#c2816b"}&amp;lt;{/font}{font color="#b77962"}+{/font}{font color="#a2664e"}={/font}{font color="#a86f54"}+{/font}{font color="#af7357"}+{/font}{font color="#cb856b"}&amp;lt;{/font}{font color="#dd967a"}({/font}{font color="#e09b7e"}({/font}{font color="#e19c7f"}({/font}{font color="#de9b7e"}({/font}{font color="#d7967a"}({/font}{font color="#c18468"}&amp;lt;{/font}{font color="#b5795f"}+{/font}{font color="#c1876f"}&amp;lt;{/font}{font color="#b67e67"}&amp;lt;{/font}{font color="#915e49"}={/font}{font color="#9d7868"}+{/font}{font color="#fff5ed"}.{/font}{font color="#fcf9f4"} {/font}{font color="#f7f6f1"}.{/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fcf5ef"}.{/font}{font color="#fff4eb"}.{/font}{font color="#debeb1"}-{/font}{font color="#9b6e5b"}+{/font}{font color="#b57e69"}&amp;lt;{/font}{font color="#dc9c83"}({/font}{font color="#f3ad94"}~{/font}{font color="#f1a991"}~{/font}{font color="#e49c83"}({/font}{font color="#e49a81"}({/font}{font color="#cf896f"}&amp;lt;{/font}{font color="#b77a5e"}+{/font}{font color="#a0674c"}={/font}{font color="#a56951"}={/font}{font color="#c98b74"}&amp;lt;{/font}{font color="#e4a28a"}~{/font}{font color="#f4b29a"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#f9bba4"}-{/font}{font color="#f6b59f"}-{/font}{font color="#ffbfa9"}-{/font}{font color="#fab8a2"}-{/font}{font color="#e09e88"}({/font}{font color="#cb8a76"}&amp;lt;{/font}{font color="#ac6f5a"}+{/font}{font color="#ae745c"}+{/font}{font color="#a0674c"}={/font}{font color="#a97055"}+{/font}{font color="#ac6f53"}+{/font}{font color="#d08a70"}&amp;lt;{/font}{font color="#dd967a"}({/font}{font color="#e09b7e"}({/font}{font color="#df9c7f"}({/font}{font color="#dd9c7e"}({/font}{font color="#cd8d71"}&amp;lt;{/font}{font color="#ba7e64"}&amp;lt;{/font}{font color="#b77d65"}+{/font}{font color="#bd856e"}&amp;lt;{/font}{font color="#a4715c"}+{/font}{font color="#8b604f"}={/font}{font color="#e1c4b6"}-{/font}{font color="#fff5ee"} {/font}{font color="#fdf8f4"} {/font}{font color="#fffffb"} {/font}{font color="#f6f7f2"}.{/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffd"} {/font}{font color="#fffffd"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffef9"} {/font}{font color="#fff7f1"} {/font}{font color="#fff5eb"}.{/font}{font color="#ae8e7f"}&amp;lt;{/font}{font color="#9e7360"}+{/font}{font color="#c18771"}&amp;lt;{/font}{font color="#e19d86"}({/font}{font color="#f0aa90"}~{/font}{font color="#e79f86"}~{/font}{font color="#e49a81"}({/font}{font color="#d58d74"}({/font}{font color="#c38167"}&amp;lt;{/font}{font color="#ab6f53"}+{/font}{font color="#a0674c"}={/font}{font color="#ad7459"}+{/font}{font color="#ac6e55"}+{/font}{font color="#bb7b62"}+{/font}{font color="#d29078"}({/font}{font color="#e4a28c"}~{/font}{font color="#f4b29c"}-{/font}{font color="#f3b29c"}-{/font}{font color="#edab93"}~{/font}{font color="#f7b59d"}-{/font}{font color="#edab93"}~{/font}{font color="#cf8d77"}({/font}{font color="#ac6f5a"}+{/font}{font color="#a36951"}={/font}{font color="#a87055"}+{/font}{font color="#9f674c"}={/font}{font color="#a5694f"}={/font}{font color="#b9795e"}+{/font}{font color="#d79177"}({/font}{font color="#dd957c"}({/font}{font color="#e09b7e"}({/font}{font color="#de9b7e"}({/font}{font color="#d59579"}({/font}{font color="#c4876b"}&amp;lt;{/font}{font color="#b97d63"}+{/font}{font color="#bd856e"}&amp;lt;{/font}{font color="#b57e69"}&amp;lt;{/font}{font color="#8b604f"}={/font}{font color="#a99185"}&amp;lt;{/font}{font color="#fff5ed"}.{/font}{font color="#fff8f2"} {/font}{font color="#fffef9"} {/font}{font color="#fffffb"} {/font}{font color="#f6f7f2"}.{/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffd"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fcf9f4"} {/font}{font color="#fff7ee"} {/font}{font color="#f4ded1"}'{/font}{font color="#947060"}+{/font}{font color="#aa7764"}+{/font}{font color="#cb8f77"}({/font}{font color="#e3a086"}~{/font}{font color="#e69e85"}~{/font}{font color="#e39980"}({/font}{font color="#d58d74"}({/font}{font color="#c68369"}&amp;lt;{/font}{font color="#b9795e"}+{/font}{font color="#a36a4f"}={/font}{font color="#9f664b"}={/font}{font color="#ab6f55"}+{/font}{font color="#b6785f"}+{/font}{font color="#b9775f"}+{/font}{font color="#bd7962"}+{/font}{font color="#c5816a"}&amp;lt;{/font}{font color="#c8846d"}&amp;lt;{/font}{font color="#c7836c"}&amp;lt;{/font}{font color="#c48069"}&amp;lt;{/font}{font color="#bb7760"}+{/font}{font color="#ba7860"}+{/font}{font color="#ac7058"}+{/font}{font color="#b37b62"}+{/font}{font color="#a87055"}+{/font}{font color="#a36a4d"}={/font}{font color="#ad6f56"}+{/font}{font color="#c58369"}&amp;lt;{/font}{font color="#d99379"}({/font}{font color="#da9279"}({/font}{font color="#d79479"}({/font}{font color="#d69579"}({/font}{font color="#c98c70"}&amp;lt;{/font}{font color="#b4785e"}+{/font}{font color="#b27860"}+{/font}{font color="#b68068"}&amp;lt;{/font}{font color="#a77866"}+{/font}{font color="#886758"}={/font}{font color="#e2d3cc"}'{/font}{font color="#fcf9f4"} {/font}{font color="#fcf9f4"} {/font}{font color="#fffffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#f6f7f2"}.{/font}{font color="#fffffb"} {/font}{font color="#fff8f2"} {/font}{font color="#fff5eb"}.{/font}{font color="#dbbfb1"}-{/font}{font color="#966c5c"}={/font}{font color="#b27f6a"}&amp;lt;{/font}{font color="#d09279"}({/font}{font color="#df9c81"}({/font}{font color="#d99379"}({/font}{font color="#d58d74"}({/font}{font color="#cf896f"}&amp;lt;{/font}{font color="#c48167"}&amp;lt;{/font}{font color="#b6785f"}+{/font}{font color="#ab6f55"}+{/font}{font color="#ac6e57"}+{/font}{font color="#b97960"}+{/font}{font color="#bb7760"}+{/font}{font color="#bd775e"}+{/font}{font color="#bd775e"}+{/font}{font color="#c88269"}&amp;lt;{/font}{font color="#cc846c"}&amp;lt;{/font}{font color="#cc846c"}&amp;lt;{/font}{font color="#d18971"}&amp;lt;{/font}{font color="#cc8871"}&amp;lt;{/font}{font color="#b97862"}+{/font}{font color="#b67a62"}+{/font}{font color="#a46b50"}={/font}{font color="#ab6f53"}+{/font}{font color="#ba785e"}+{/font}{font color="#d9937a"}({/font}{font color="#dd977d"}({/font}{font color="#d49176"}({/font}{font color="#cf8e72"}&amp;lt;{/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#ba7e62"}&amp;lt;{/font}{font color="#b1795e"}+{/font}{font color="#b17960"}+{/font}{font color="#b08069"}+{/font}{font color="#856151"}={/font}{font color="#a89285"}&amp;lt;{/font}{font color="#fff6f0"} {/font}{font color="#fcf9f4"} {/font}{font color="#fffefa"} {/font}{font color="#fffffb"} {/font}{font color="#fefffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fefff9"} {/font}{font color="#fefff9"} {/font}{font color="#fefffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffefa"} {/font}{font color="#fff7ee"} {/font}{font color="#fff4e9"}.{/font}{font color="#ad9082"}&amp;lt;{/font}{font color="#8f6654"}={/font}{font color="#b57e69"}&amp;lt;{/font}{font color="#cb8d74"}&amp;lt;{/font}{font color="#d49177"}({/font}{font color="#d48e74"}({/font}{font color="#d68e75"}({/font}{font color="#cb856b"}&amp;lt;{/font}{font color="#c38167"}&amp;lt;{/font}{font color="#b97960"}+{/font}{font color="#b97960"}+{/font}{font color="#ba7860"}+{/font}{font color="#c6826b"}&amp;lt;{/font}{font color="#d08a71"}&amp;lt;{/font}{font color="#d9937a"}({/font}{font color="#f4ac94"}~{/font}{font color="#f9b199"}-{/font}{font color="#f4ac94"}~{/font}{font color="#eea68e"}~{/font}{font color="#e19b82"}({/font}{font color="#ba7862"}+{/font}{font color="#b4735d"}+{/font}{font color="#ae6e53"}+{/font}{font color="#c38167"}&amp;lt;{/font}{font color="#cf8970"}&amp;lt;{/font}{font color="#dd957d"}({/font}{font color="#db987d"}({/font}{font color="#d39276"}({/font}{font color="#ce8e73"}&amp;lt;{/font}{font color="#c18569"}&amp;lt;{/font}{font color="#b27a5f"}+{/font}{font color="#ab755b"}+{/font}{font color="#b07a62"}+{/font}{font color="#a37661"}+{/font}{font color="#7f6558"}={/font}{font color="#e2d4cb"}'{/font}{font color="#fff9f3"} {/font}{font color="#fffef9"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fdfff9"} {/font}{font color="#fdfff9"} {/font}{font color="#fdfffa"} {/font}{font color="#fefffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#f6f7f2"}.{/font}{font color="#fffffa"} {/font}{font color="#fffff8"} {/font}{font color="#fff7ee"} {/font}{font color="#f1dfd5"}'{/font}{font color="#a48477"}&amp;lt;{/font}{font color="#9c6d59"}={/font}{font color="#b77d67"}&amp;lt;{/font}{font color="#c28269"}&amp;lt;{/font}{font color="#cd8a70"}&amp;lt;{/font}{font color="#d58d74"}({/font}{font color="#d18a6e"}&amp;lt;{/font}{font color="#d18970"}&amp;lt;{/font}{font color="#c88268"}&amp;lt;{/font}{font color="#c48167"}&amp;lt;{/font}{font color="#bb7760"}+{/font}{font color="#bb7760"}+{/font}{font color="#bd7962"}+{/font}{font color="#c6826b"}&amp;lt;{/font}{font color="#d58e78"}({/font}{font color="#d9927e"}({/font}{font color="#c9826c"}&amp;lt;{/font}{font color="#c98169"}&amp;lt;{/font}{font color="#c98169"}&amp;lt;{/font}{font color="#bd775e"}+{/font}{font color="#c88269"}&amp;lt;{/font}{font color="#d58d74"}({/font}{font color="#da9279"}({/font}{font color="#d78d74"}({/font}{font color="#d68e75"}({/font}{font color="#d7947a"}({/font}{font color="#d29277"}({/font}{font color="#c4866d"}&amp;lt;{/font}{font color="#b2795e"}+{/font}{font color="#a16b51"}={/font}{font color="#a6745b"}+{/font}{font color="#a7755e"}+{/font}{font color="#8e6756"}={/font}{font color="#a59389"}&amp;lt;{/font}{font color="#fff8f2"} {/font}{font color="#fcf9f4"} {/font}{font color="#fffffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fefffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fdfff9"} {/font}{font color="#fdfff9"} {/font}{font color="#fdfffa"} {/font}{font color="#fefffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fffff8"} {/font}{font color="#fff7ee"} {/font}{font color="#e8d2c7"}'{/font}{font color="#896253"}={/font}{font color="#aa7764"}+{/font}{font color="#b37963"}+{/font}{font color="#c38169"}&amp;lt;{/font}{font color="#cf896f"}&amp;lt;{/font}{font color="#d78d72"}({/font}{font color="#dc9277"}({/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#cc846b"}&amp;lt;{/font}{font color="#c88268"}&amp;lt;{/font}{font color="#c88269"}&amp;lt;{/font}{font color="#c27c63"}&amp;lt;{/font}{font color="#bd775e"}+{/font}{font color="#bf7862"}+{/font}{font color="#c9826e"}&amp;lt;{/font}{font color="#c67f69"}&amp;lt;{/font}{font color="#c98169"}&amp;lt;{/font}{font color="#d0886f"}&amp;lt;{/font}{font color="#d2886f"}&amp;lt;{/font}{font color="#da9077"}({/font}{font color="#db8f75"}({/font}{font color="#d88c72"}({/font}{font color="#db8f77"}({/font}{font color="#e29a81"}({/font}{font color="#d49177"}({/font}{font color="#cc8e75"}&amp;lt;{/font}{font color="#be846c"}&amp;lt;{/font}{font color="#a56f55"}+{/font}{font color="#976449"}={/font}{font color="#a07059"}+{/font}{font color="#a1725e"}+{/font}{font color="#846354"}={/font}{font color="#e2d5cd"}'{/font}{font color="#fffef9"} {/font}{font color="#fffef9"} {/font}{font color="#fffffa"} {/font}{font color="#fffffb"} {/font}{font color="#f6f7f2"}.{/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fefffa"} {/font}{font color="#fffffa"} {/font}{font color="#fffff8"} {/font}{font color="#fff5ed"}.{/font}{font color="#ecd0c4"}'{/font}{font color="#8e6454"}={/font}{font color="#a06b59"}+{/font}{font color="#b1745f"}+{/font}{font color="#c9866c"}&amp;lt;{/font}{font color="#d58d74"}({/font}{font color="#da9075"}({/font}{font color="#d88c72"}({/font}{font color="#d2886d"}&amp;lt;{/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#d58b70"}&amp;lt;{/font}{font color="#d78d72"}({/font}{font color="#d88e75"}({/font}{font color="#d68e76"}({/font}{font color="#d89078"}({/font}{font color="#da927a"}({/font}{font color="#e39b82"}({/font}{font color="#e49a81"}({/font}{font color="#e79b81"}({/font}{font color="#e0947a"}({/font}{font color="#db9073"}({/font}{font color="#e1957b"}({/font}{font color="#df957c"}({/font}{font color="#d89077"}({/font}{font color="#cf8d73"}&amp;lt;{/font}{font color="#c0846c"}&amp;lt;{/font}{font color="#b57f67"}&amp;lt;{/font}{font color="#99654f"}={/font}{font color="#96644d"}={/font}{font color="#a0735c"}+{/font}{font color="#88624f"}={/font}{font color="#806458"}={/font}{font color="#f8eee5"}.{/font}{font color="#f7f6f1"}.{/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffa"} {/font}{font color="#fffcf5"} {/font}{font color="#fff4e9"}.{/font}{font color="#d7b3a5"}~{/font}{font color="#9c6b5a"}={/font}{font color="#ac725c"}+{/font}{font color="#bc7a62"}+{/font}{font color="#cc846b"}&amp;lt;{/font}{font color="#d3896e"}&amp;lt;{/font}{font color="#d88c72"}({/font}{font color="#db9073"}({/font}{font color="#db9073"}({/font}{font color="#e29579"}({/font}{font color="#e69b7e"}({/font}{font color="#e89c84"}~{/font}{font color="#eaa087"}~{/font}{font color="#eda58c"}~{/font}{font color="#eea68d"}~{/font}{font color="#efa58c"}~{/font}{font color="#eaa085"}~{/font}{font color="#ea9d83"}~{/font}{font color="#e29579"}({/font}{font color="#db9073"}({/font}{font color="#e19679"}({/font}{font color="#df957c"}({/font}{font color="#d48e74"}({/font}{font color="#c7856d"}&amp;lt;{/font}{font color="#b77d65"}+{/font}{font color="#a9725d"}+{/font}{font color="#905d48"}={/font}{font color="#996952"}={/font}{font color="#9b6e59"}={/font}{font color="#866350"}={/font}{font color="#a99284"}&amp;lt;{/font}{font color="#fff7f0"} {/font}{font color="#fffffa"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}{font color="#fffffb"} {/font}
+{/font}
+{/pre}{/p}
+{/td}{/tr}
+{/table}
+</MESSAGE>
+    <DATE>2006-03-28T12:44:27-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>43</NUMBER>
+    <TITLE>Standard web application interfaces?</TITLE>
+    <MESSAGE>I’m back working on the G2C and my first thought, is there any kind of unofficial standard among the major web applications that G2C could benefit from?
+{BR}{BR}
+I looked at Amazon (shopping and wish list), eBay, Netflix (searching and queue), Wal-Mart and Target. Certainly not the fanciest web apps out there, but applications that get used often by non-geeks, and deal with long list. 
+{BR}{BR}
+Some interesting observations standout right away, like how much information and options these sites try to pack into each screen. It is also clear that there aren’t many unofficial standards on the web when it comes to the details. Example, Amazon’s wish list doesn’t save your changes when going to a new page before clicking Save, but eBay does. It’s clear that I’m just going to have to borrow the feature that I like best.
+{BR}{BR}
+{a href="http://jasonbutler.com/G2CBlog/Docs/MajorWebsiteInterfaces.doc"} Major Website Interfaces.doc {/a} 3MB (Word)
+</MESSAGE>
+    <DATE>2007-07-18T12:59:24-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>44</NUMBER>
+    <TITLE>Decisions, decisions</TITLE>
+    <MESSAGE>I’m back at the same problem {a href="http://jasonbutler.com/G2CBlog/BlogEntry.aspx?Entry=13"}
+I was at last year{/a}, trying to choice which (MS) product to use for G2C.
+{BR}{BR}
+{B}VS.NET 2003{/B} - Have and know, but kind of old, uses ASP 1.1. I was planning to go this route, but it is starting to look pretty old
+{BR}
+{B}VS.NET 2005{/B} - Cost $700, but uses ASP 2.0 {a href="http://aspnet.4guysfromrolla.com/articles/120705-1.aspx"}(user accounts look interesting){/a}. I would probably go this route if I had the $$$.    
+{BR}
+{B}Visual Web Developer Express{/B} - FREE, uses ASP 2.0. Not really a professional dev tool, but it maybe the only way I can do ASP 2.0 for now.
+{BR}
+{B}VS.NET 2008{/B} - Not out till next year, ASP 3.5. Too new, definitely not looking to go this route.
+{BR}{BR}
+Not too mention {a href=" http://www.asp.net/ajax/"}ASP.NET AJAX{/a} is starting to look pretty cool (needs ASP 2.0).</MESSAGE>
+    <DATE>2007-09-20T16:52:41-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>45</NUMBER>
+    <TITLE>Good news</TITLE>
+    <MESSAGE>Well through a bit of luck and skill I’ve acquired a full copy of VS.NET 2005.
+{BR}{BR}
+In a related coincidence I am working on implementing some AJAX enhanced ASP.NET 2.0 web pages at my place of employment. The server I’m using for this is primarily a file server and I’m just trying to discreetly piggy back on a few web apps. Everything was going pretty good until I deployed my first sample app from VS 05. No matter what page I tried to go to I received the following error:
+{BR}{BR}
+{font size="1" color="red"}
+    System.Security.SecurityException: Requested registry access is not allowed. 
+{/font}
+{BR}{BR}
+For several days I was convinced that is wasn’t directly a registry permission problem, because my sample apps certainly didn’t touch the registry and I turn off as much of the built in logging as possible.
+{BR}{BR}	
+After a few days of trial and error, and web research I decide to look closer at the registry on the server. By down loading a the handy register monitoring tool {a href="http://www.microsoft.com/technet/sysinternals/utilities/regmon.mspx"}RegMon{/a} I was able to find one registry lookup that was failing because of permissions, out of thousands of on going look ups (if you use this program be sure to use the filter to weed out programs that are obviously not the problem, like regmon.exe). 
+{BR}{BR}
+Well after tracking down this one registry entry I brought up the permissions, only Admin and System had any access. In most of the registry Users at least have read access, so I added Users with read access and BAM! Everything started working perfectly.
+</MESSAGE>
+    <DATE>2007-10-26T14:18:57-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>46</NUMBER>
+    <TITLE>The Beans Word Game</TITLE>
+    <MESSAGE>Instead of working on G2C, like I should be, I've been making learning games for my kids...
+{BR}{BR}
+{a href="http://beansgames.com/"}{IMG SRC="http://jasonbutler.com/BeansGames/bwg-screenshot.jpg" ALT="The Beans Word Game" BORDER="0"}{/a}
+{BR}{BR}
+The Beans Word Game is a simple little game that I made for my two daughters to help teach them spelling in a fun way.
+{BR}{BR}
+Playing the game is very simple. A word is said out loud while a picture of it is displayed. Next the word is spelled out on the screen as the letters are shown at the bottom. Then the letters disappear and the child is asked to spell the word. Encouragement and hints are given as the word is being typed.
+{BR}{BR}
+The Beans Word Game can be played by kids of any age by changing the game settings, or by making the spelling words easier or harder, but kids between four and eight will probably get the most out of it. 
+{BR}{BR}
+Download from the main website {a href="http://beansgames.com/"}BeansGames.com{/a}
+{BR}{BR}
+Or download from {a href="
+http://www.download.com/Beans-Word-Game/3000-2102_4-10892816.html"}download.com{/a}
+
+</MESSAGE>
+    <DATE>2008-10-06T10:48:06-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>47</NUMBER>
+    <TITLE>Convert old IBM QMF data to nice and new Excel data</TITLE>
+    <MESSAGE>Like many other IT departments of large non-IT organizations, we still use some very old technology where I work - specifically QMF mainframe reports. We have been manually downloading these reports though a cumbersome mainframe emulator, and then converting them to Excel with a hit or miss processes using the fixed width Text to Columns tool. Then we would finally finish off the reports with column names, slightly prettier formatting and giving them useful file names. 
+{BR}{BR}
+Until I finally realized that this is just the type of busy work computers love to do. So I developed QMF2Excel to do just that.
+{BR}{BR}
+{a href="http://jasonbutler.com/QMF2Excel/"}{IMG SRC="http://jasonbutler.com/QMF2Excel/QMF2Excel-small.jpg" ALT="QMF2Excel" BORDER="0"}{/a}
+{BR}{BR}
+To find out more about QMF2Excel {a href="http://jasonbutler.com/QMF2Excel/"}click here{/a}.
+</MESSAGE>
+    <DATE>2008-11-14T11:21:17-08:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>48</NUMBER>
+    <TITLE>Developer Groups</TITLE>
+    <MESSAGE>I guess I really hadn’t thought about it, but I had no idea there were so many (in person) developer groups out there. Of course I am primarily interested in the Atlanta area, but there are groups setup all over the country. Many of them are organized grassroots style by fellow developers. Meetup.com is an excellent resource to find local groups – of course the old stand by of just googling for them works well too.
+{BR}{BR}
+These group are a fantastic way to keep up the latest technology and meet other local developers (and trade info on job leads). I love web cast of the latest tools and tips, but there is still something about seeing it done in person – and being able to ask questions on the spot.
+{BR}{BR}
+Most are free, or they charge a modest meeting fee to just cover expenses. Here in Atlanta a couple of groups meet at the local Microsoft building with food and drinks provided – and usually end with giveaway of quality books and software. It makes sense if you think about it – who helps out MS more than developers using and promoting their products!
+{BR}{BR}
+Here are a few groups that I have attended in the last couple months:
+{BR}{BR}
+{a href="http://www.atldotnet.org/default.aspx"}Altanta.net User Group{/a} meets one a month up in Alpharetta. I’ve been to a couple of meetings, a nice operation with good topics. 
+{BR}{BR}
+{a href="http://www.atlantamspros.com"}Atlanta Microsoft Professionals{/a} also meets once a month in Alpharetta at the MS building.
+{BR}{BR}
+{a href="http://www.meetup.com/atlantawebentrepreneurs"}Atlanta Web Entrepreneurs{/a} meet over by GA Tech, a mixed business, tech and college crowd.
+{BR}{BR}
+{a href="http://www.meetup.com/atlantawebdesign"}Atlanta Web Design Group{/a} a designer (artsy) crowd, they meet at the Portfolio Center in Atlanta. </MESSAGE>
+    <DATE>2009-03-31T12:36:11-07:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+  <BLOGENTRY>
+    <NUMBER>49</NUMBER>
+    <TITLE>Easy vs. Full Featured</TITLE>
+    <MESSAGE>This whole grocery list application idea has real potential… four years ago when I first thought it up! But now there are plenty of competitors out there that were obviously more ambitious than me.  
+{BR}{BR}
+However since I still need a project to (try) and keep my code skills some what up to date, I have decide to press on with Glad2Cook. 
+{BR}{BR}
+Now that I’m actually coding, my big problem is which direction to go in. I thought at first I wanted a full feature app – that was still pretty intuitive to use. But after adding more and more features you get to a point where, even if well designed, it’s just not as easy to use as it should be – especially on mobile devices.
+{BR}{BR}
+{I}Full Featured{/I}{BR}
+{IMG SRC="http://jasonbutler.com/G2CBlog/images/g2c-shop.gif" BORDER="1"}
+{BR}
+{IMG SRC="http://jasonbutler.com/G2CBlog/images/g2c-list.gif" BORDER="1"}
+{BR}{BR}
+I know there’s already a lot out there supporting both sides of the debate, but it’s still tricky in practice. For example I’m going in the direct of easier and simpler right now. But I have basically scaled my grocery list application down to a very generic online list (application isn’t the right word) …thing. 
+{BR}{BR}
+{I}Easy / Simple{/I}{BR}
+{IMG SRC="http://jasonbutler.com/G2CBlog/images/g2c-shop-simple.gif" BORDER="1"}
+{BR}
+{IMG SRC="http://jasonbutler.com/G2CBlog/images/g2c-list-simple.gif" BORDER="1"}
+{BR}{BR}
+I honestly don’t know which direct to take and I'm really leaning towards creating two complete different websites to serve both purposes.</MESSAGE>
+    <DATE>2010-02-18T15:49:08-08:00</DATE>
+    <DISPLAYFLAG>Y</DISPLAYFLAG>
+  </BLOGENTRY>
+</BLOGENTRIES>
